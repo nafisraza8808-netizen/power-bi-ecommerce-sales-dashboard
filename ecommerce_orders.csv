@@ -1,0 +1,501 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Segment,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount_Percent,Discount_Amount,Shipping_Charge,Net_Sales,Unit_Cost,Profit,City,State,Payment_Method,Order_Status,Sales_Channel,Delivery_Days,Returned_Flag
+ORD-10002,2026-10-17,CUST-1140,New,PRD-002,Bluetooth Headphones,Electronics,2,1499,0,0.0,0,2998.0,850,1298.0,Mumbai,Maharashtra,Net Banking,Delivered,Mobile App,2.0,No
+ORD-10003,2025-02-02,CUST-1051,Premium,PRD-001,Wireless Mouse,Electronics,1,599,15,89.85,80,589.15,320,229.15,Delhi,Delhi,Net Banking,Delivered,Mobile App,9.0,No
+ORD-10004,2025-08-14,CUST-1088,Returning,PRD-008,Water Bottle,Home & Kitchen,1,349,0,0.0,0,349.0,130,219.0,Jaipur,Rajasthan,Credit Card,Returned,Website,7.0,Yes
+ORD-10005,2025-12-11,CUST-1068,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,5,74.95,40,1464.05,850,594.05,Delhi,Delhi,Cash on Delivery,Cancelled,Marketplace,,No
+ORD-10006,2025-05-08,CUST-1093,Premium,PRD-015,Notebook Pack,Stationery,1,199,5,9.95,99,288.05,80,158.55,Pune,Maharashtra,Credit Card,Cancelled,Marketplace,,No
+ORD-10007,2025-03-13,CUST-1098,Returning,PRD-001,Wireless Mouse,Electronics,1,599,5,29.95,0,569.05,320,249.05,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,Marketplace,2.0,No
+ORD-10008,2026-01-09,CUST-1044,Premium,PRD-003,Smart Watch,Electronics,1,2499,20,499.8,40,2039.2,1550,469.2,Kolkata,West Bengal,Credit Card,Returned,Website,2.0,Yes
+ORD-10009,2026-04-19,CUST-1057,Premium,PRD-007,Backpack,Fashion,5,1299,20,1299.0,99,5295.0,700,1745.5,Chennai,Tamil Nadu,Debit Card,Cancelled,Website,,No
+ORD-10010,2025-08-23,CUST-1146,Premium,PRD-014,Study Table,Furniture,3,3999,10,1199.7,40,10837.3,2700,2717.3,Mumbai,Maharashtra,Debit Card,Delivered,Website,4.0,No
+ORD-10011,2026-11-03,CUST-1036,New,PRD-008,Water Bottle,Home & Kitchen,3,349,20,209.4,60,897.6,130,477.6,Pune,Maharashtra,Net Banking,Delivered,Marketplace,5.0,No
+ORD-10012,2025-09-27,CUST-1036,Premium,PRD-012,Sunscreen SPF 50,Beauty,1,499,15,74.85,60,484.15,260,194.15, Jaipur ,Rajasthan,Cash on Delivery,Delivered,Website,4.0,No
+ORD-10013,2025-02-18,CUST-1017,Returning,PRD-014,Study Table,Furniture,1,3999,0,0.0,99,4098.0,2700,1348.5,Delhi,Delhi,Cash on Delivery,Shipped,Marketplace,,No
+ORD-10014,2026-04-25,CUST-1138,Returning,PRD-009,Mixer Grinder,Home & Kitchen,4,2899,0,0.0,99,11695.0,1900,4045.5,Chennai,Tamil Nadu,Debit Card,Returned,Website,2.0,Yes
+ORD-10015,2025-10-28,CUST-1046,Premium,PRD-007,Backpack,Fashion,1,1299,20,259.8,99,1138.2,700,388.7,Bengaluru,Karnataka,UPI,Delivered,Marketplace,9.0,No
+ORD-10016,2025-11-02,CUST-1139,Premium,PRD-014,Study Table,Furniture,1,3999,0,0.0,0,3999.0,2700,1299.0,Lucknow,Uttar Pradesh,UPI,Delivered,Marketplace,3.0,No
+ORD-10017,2025-11-28,CUST-1062,Premium,PRD-008,Water Bottle,Home & Kitchen,1,349,5,17.45,40,371.55,130,221.55,Mumbai,Maharashtra,UPI,Delivered,Website,1.0,No
+ORD-10018,2026-05-13,CUST-1141,New,PRD-014,Study Table,Furniture,4,3999,15,2399.4,0,13596.6,2700,2796.6,Delhi,Delhi,Debit Card,Delivered,Marketplace,8.0,No
+ORD-10019,2026-09-14,CUST-1103,Premium,PRD-007,Backpack,Fashion,4,1299,20,1039.2,99,4255.8,700,1406.3,Hyderabad,Telangana,Debit Card,Delivered,Mobile App,5.0,No
+ORD-10020,2026-06-14,CUST-1059,Premium,PRD-008,Water Bottle,Home & Kitchen,1,349,0,0.0,40,389.0,130,239.0,Delhi,Delhi,Credit Card,Delivered,Website,9.0,No
+ORD-10021,2025-03-14,CUST-1132,New,PRD-012,Sunscreen SPF 50,Beauty,1,499,0,0.0,0,499.0,260,239.0,Lucknow,Uttar Pradesh,Debit Card,Delivered,Marketplace,2.0,No
+ORD-10022,2026-05-13,CUST-1063,Returning,PRD-004,USB-C Charger,Electronics,1,799,15,119.85,80,759.15,420,299.15,Kochi,Kerala,Cash on Delivery,Shipped,Website,,No
+ORD-10023,2025-04-07,CUST-1014,Premium,PRD-002,Bluetooth Headphones,Electronics,1,1499,10,149.9,60,1409.1,850,529.1,Lucknow,Uttar Pradesh,UPI,Shipped,Website,,No
+ORD-10024,2026-02-17,CUST-1138,Returning,PRD-012,Sunscreen SPF 50,Beauty,3,499,0,0.0,0,1497.0,260,717.0,Kolkata,West Bengal,Credit Card,Delivered,Mobile App,4.0,No
+ORD-10025,2025-07-07,CUST-1026,New,PRD-005,Cotton T-Shirt,Fashion,1,499,0,0.0,60,559.0,220,309.0,Ahmedabad,Gujarat,Net Banking,Cancelled,Website,,No
+ORD-10026,2025-04-06,CUST-1016,New,PRD-015,Notebook Pack,Stationery,1,199,10,19.9,60,239.1,80,129.1,Hyderabad,Telangana,Cash on Delivery,Delivered,Website,7.0,No
+ORD-10027,2026-02-04,CUST-1125,New,PRD-005,Cotton T-Shirt,Fashion,1,499,20,99.8,99,498.2,220,228.7,Ahmedabad,Gujarat,Credit Card,Cancelled,Mobile App,,No
+ORD-10028,2025-08-11,CUST-1013,Premium,PRD-001,Wireless Mouse,Electronics,2,599,0,0.0,99,1297.0,320,607.5,Jaipur,Rajasthan,Cash on Delivery,Delivered,Marketplace,1.0,No
+ORD-10029,2026-06-28,CUST-1061,Returning,PRD-003,Smart Watch,Electronics,4,2499,0,0.0,0,9996.0,1550,3796.0,Mumbai,Maharashtra,UPI,Delivered,Marketplace,2.0,No
+ORD-10030,2025-09-10,CUST-1081,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,0,0.0,60,1059.0,510,519.0,Jaipur,Rajasthan,Credit Card,Returned,Marketplace,9.0,Yes
+ORD-10031,2025-11-18,CUST-1081,New,PRD-004,USB-C Charger,Electronics,1,799,20,159.8,99,738.2,420,268.7,Chennai,Tamil Nadu,UPI,Delivered,Mobile App,8.0,No
+ORD-10032,2026-09-29,CUST-1090,New,PRD-010,Bedsheet Set,Home & Kitchen,1,999,0,0.0,80,1079.0,510,529.0,Delhi,Delhi,Credit Card,Delivered,Mobile App,3.0,No
+ORD-10033,2025-10-19,CUST-1136,New,PRD-003,Smart Watch,Electronics,3,2499,20,1499.4,40,6037.6,1550,1367.6,Ahmedabad,Gujarat,Net Banking,Cancelled,Mobile App,,No
+ORD-10034,2026-11-11,CUST-1040,Returning,PRD-002,Bluetooth Headphones,Electronics,1,1499,0,0.0,99,1598.0,850,698.5,Bengaluru,Karnataka,Debit Card,Cancelled,Marketplace,,No
+ORD-10035,2025-08-04,CUST-1126,Returning,PRD-012,Sunscreen SPF 50,Beauty,1,499,20,99.8,40,439.2,260,159.2,Kolkata,West Bengal,UPI,Cancelled,Website,,No
+ORD-10036,2026-10-12,CUST-1042,Premium,PRD-007,Backpack,Fashion,1,1299,5,64.95,0,1234.05,700,534.05,Chennai,Tamil Nadu,Cash on Delivery,Returned,Marketplace,5.0,Yes
+ORD-10037,2026-03-14,CUST-1010,Returning,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,20,579.8,0,2319.2,1900,419.2,Mumbai,Maharashtra,Net Banking,Cancelled,Marketplace,,No
+ORD-10038,2025-06-01,CUST-1064,Premium,PRD-007,Backpack,Fashion,1,1299,5,64.95,0,1234.05,700,534.05,Bengaluru,Karnataka,UPI,Delivered,Mobile App,4.0,No
+ORD-10039,2026-07-28,CUST-1046,Returning,PRD-015,Notebook Pack,Stationery,4,199,20,159.2,0,636.8,80,316.8,Pune,Maharashtra,UPI,Delivered,Website,3.0,No
+ORD-10040,2025-12-07,CUST-1028,Returning,PRD-013,Office Chair,Furniture,3,5499,20,3299.4,0,13197.6,3700,2097.6,Pune,Maharashtra,UPI,Delivered,Mobile App,3.0,No
+ORD-10041,2025-08-16,CUST-1103,Returning,PRD-004,USB-C Charger,Electronics,1,799,0,0.0,0,799.0,420,379.0,Ahmedabad,Gujarat,Debit Card,Delivered,Website,4.0,No
+ORD-10042,2025-10-13,CUST-1030,Returning,PRD-006,Running Shoes,Fashion,1,2199,20,439.8,80,1839.2,1250,549.2,Lucknow,Uttar Pradesh,Credit Card,Delivered,Marketplace,1.0,No
+ORD-10043,2025-09-29,CUST-1131,New,PRD-001,Wireless Mouse,Electronics,2,599,5,59.9,99,1237.1,320,547.6,Delhi,Delhi,Cash on Delivery,Delivered,Marketplace,7.0,No
+ORD-10044,2025-07-14,CUST-1051,Returning,PRD-005,Cotton T-Shirt,Fashion,2,499,0,0.0,80,1078.0,220,598.0,Mumbai,Maharashtra,Cash on Delivery,Cancelled,Website,,No
+ORD-10045,2025-12-05,CUST-1080,Premium,PRD-010,Bedsheet Set,Home & Kitchen,2,999,0,0.0,99,2097.0,510,1027.5,Kolkata,West Bengal,Cash on Delivery,Delivered,Mobile App,9.0,No
+ORD-10046,2026-02-17,CUST-1045,Premium,PRD-012,Sunscreen SPF 50,Beauty,2,499,0,0.0,60,1058.0,260,508.0,Chennai,Tamil Nadu,Net Banking,Returned,Mobile App,7.0,Yes
+ORD-10047,2026-02-20,CUST-1083,Returning,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,0,0.0,60,2959.0,1900,1029.0,Mumbai,Maharashtra,Cash on Delivery,Cancelled,Mobile App,,No
+ORD-10048,2025-08-07,CUST-1073,Premium,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,20,1159.6,0,4638.4,1900,838.4,Ahmedabad,Gujarat,Net Banking,Returned,Mobile App,2.0,Yes
+ORD-10049,2025-04-06,CUST-1012,New,PRD-014,Study Table,Furniture,2,3999,0,0.0,0,7998.0,2700,2598.0,Hyderabad,Telangana,Cash on Delivery,Delivered,Marketplace,1.0,No
+ORD-10050,2025-03-16,CUST-1127,Returning,PRD-008,Water Bottle,Home & Kitchen,3,349,15,157.05,0,889.95,130,499.95,Pune,Maharashtra,Credit Card,Returned,Website,7.0,Yes
+ORD-10051,2026-11-03,CUST-1133,Returning,PRD-012,Sunscreen SPF 50,Beauty,3,499,0,0.0,60,1557.0,260,747.0,Mumbai,Maharashtra,UPI,Delivered,Marketplace,3.0,No
+ORD-10052,2025-09-13,CUST-1144,Premium,PRD-015,Notebook Pack,Stationery,1,199,10,19.9,99,278.1,80,148.6,Delhi,Delhi,Debit Card,Cancelled,Mobile App,,No
+ORD-10053,2026-09-20,CUST-1041,Premium,PRD-014,Study Table,Furniture,3,3999,10,1199.7,80,10877.3,2700,2737.3,Kozhikode,Kerala,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10054,2025-09-23,CUST-1062,Returning,PRD-013,Office Chair,Furniture,3,5499,5,824.85,80,15752.15,3700,4612.15,Hyderabad,Telangana,Cash on Delivery,Shipped,Website,,No
+ORD-10055,2025-10-20,CUST-1060,Returning,PRD-004,USB-C Charger,Electronics,1,799,15,119.85,0,679.15,420,259.15,Chennai,Tamil Nadu,Credit Card,Delivered,Marketplace,3.0,No
+ORD-10056,2025-08-08,CUST-1016,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,15,224.85,60,1334.15,850,454.15,Pune,Maharashtra,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10057,2026-08-22,CUST-1002,Returning,PRD-012,Sunscreen SPF 50,Beauty,3,499,15,224.55,60,1332.45,260,522.45,Mumbai,Maharashtra,Debit Card,Shipped,Mobile App,,No
+ORD-10058,2026-03-06,CUST-1057,Returning,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,15,869.7,0,4928.3,1900,1128.3,Kozhikode,Kerala,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10059,2025-01-30,CUST-1033,Premium,PRD-007,Backpack,Fashion,2,1299,10,259.8,99,2437.2,700,987.7,Kolkata,West Bengal,Net Banking,Delivered,Website,8.0,No
+ORD-10060,2026-02-08,CUST-1035,Returning,PRD-010,Bedsheet Set,Home & Kitchen,2,999,0,0.0,99,2097.0,510,1027.5,Jaipur,Rajasthan,Credit Card,Shipped,Website,,No
+ORD-10061,2025-09-24,CUST-1072,Returning,PRD-007,Backpack,Fashion,1,1299,5,64.95,40,1274.05,700,554.05,Kolkata,West Bengal,Debit Card,Shipped,Website,,No
+ORD-10062,2026-04-27,CUST-1011,New,PRD-001,Wireless Mouse,Electronics,1,599,5,29.95,0,569.05,320,249.05,Kozhikode,Kerala,Credit Card,Returned,Website,2.0,Yes
+ORD-10063,2025-01-21,CUST-1120,Premium,PRD-010,Bedsheet Set,Home & Kitchen,1,999,10,99.9,99,998.1,510,438.6,Bengaluru,Karnataka,Debit Card,Delivered,Mobile App,4.0,No
+ORD-10064,2025-06-21,CUST-1028,,PRD-010,Bedsheet Set,Home & Kitchen,4,999,20,799.2,0,3196.8,510,1156.8,Jaipur,Rajasthan,UPI,Delivered,Mobile App,5.0,No
+ORD-10065,2026-08-13,CUST-1027,Premium,PRD-011,Face Wash,Beauty,1,249,20,49.8,0,199.2,110,89.2,Pune,Maharashtra,Debit Card,Delivered,Marketplace,4.0,No
+ORD-10066,2026-09-07,CUST-1110,Premium,PRD-013,Office Chair,Furniture,2,5499,15,1649.7,0,9348.3,3700,1948.3,Delhi,Delhi,Debit Card,Delivered,Website,9.0,No
+ORD-10067,2026-06-03,CUST-1093,Premium,PRD-011,Face Wash,Beauty,1,249,10,24.9,60,284.1,110,144.1,Kolkata,West Bengal,Cash on Delivery,Delivered,Marketplace,7.0,No
+ORD-10068,2025-06-06,CUST-1138,Returning,PRD-007,Backpack,Fashion,2,1299,20,519.6,40,2118.4,700,698.4,Bengaluru,Karnataka,Cash on Delivery,Cancelled,Mobile App,,No
+ORD-10069,2026-08-30,CUST-1063,Returning,PRD-005,Cotton T-Shirt,Fashion,3,499,0,0.0,40,1537.0,220,857.0,Kolkata,West Bengal,Net Banking,Shipped,Marketplace,,No
+ORD-10070,2026-01-24,CUST-1055,Returning,PRD-006,Running Shoes,Fashion,1,2199,5,109.95,0,2089.05,1250,839.05,Mumbai,Maharashtra,Debit Card,Shipped,Mobile App,,No
+ORD-10071,2025-10-14,CUST-1049,New,PRD-015,Notebook Pack,Stationery,2,199,5,19.9,80,458.1,80,258.1,Jaipur,Rajasthan,Credit Card,Delivered,Marketplace,9.0,No
+ORD-10072,2026-02-21,CUST-1115,New,PRD-008,Water Bottle,Home & Kitchen,2,349,20,139.6,60,618.4,130,328.4,Kochi,Kerala,UPI,Returned,Mobile App,8.0,Yes
+ORD-10073,2025-08-15,CUST-1142,Premium,PRD-007,Backpack,Fashion,1,1299,20,259.8,80,1119.2,700,379.2,Kozhikode,Kerala,Debit Card,Delivered,Mobile App,8.0,No
+ORD-10074,2026-07-18,CUST-1031,Premium,PRD-006,Running Shoes,Fashion,2,2199,5,219.9,40,4218.1,1250,1698.1,Kolkata,West Bengal,Credit Card,Delivered,Mobile App,4.0,No
+ORD-10075,2025-05-03,CUST-1124,Returning,PRD-012,Sunscreen SPF 50,Beauty,4,499,20,399.2,0,1596.8,260,556.8,Kochi,Kerala,Net Banking,Delivered,Marketplace,4.0,No
+ORD-10076,2026-09-04,CUST-1078,New,PRD-005,Cotton T-Shirt,Fashion,3,499,5,74.85,0,1422.15,220,762.15,Delhi,Delhi,Net Banking,Delivered,Website,3.0,No
+ORD-10077,2025-10-08,CUST-1027,New,PRD-001,Wireless Mouse,Electronics,2,599,20,239.6,0,958.4,320,318.4,Mumbai,Maharashtra,Net Banking,Returned,Mobile App,8.0,Yes
+ORD-10078,2026-04-26,CUST-1030,New,PRD-008,Water Bottle,Home & Kitchen,1,349,0,0.0,40,389.0,130,239.0,Ahmedabad,Gujarat,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10079,2025-03-17,CUST-1078,New,PRD-010,Bedsheet Set,Home & Kitchen,2,999,0,0.0,0,1998.0,510,978.0,Lucknow,Uttar Pradesh,Credit Card,Cancelled,Website,,No
+ORD-10080,2026-07-26,CUST-1098,Returning,PRD-013,Office Chair,Furniture,2,5499,15,1649.7,0,9348.3,3700,1948.3,Pune,Maharashtra,Cash on Delivery,Cancelled,Mobile App,,No
+ORD-10081,2026-08-26,CUST-1054,Premium,PRD-007,Backpack,Fashion,2,1299,0,0.0,80,2678.0,700,1238.0,Chennai,Tamil Nadu,Credit Card,Returned,Mobile App,2.0,Yes
+ORD-10082,2026-11-08,CUST-1105,Returning,PRD-002,Bluetooth Headphones,Electronics,1,1499,15,224.85,0,1274.15,850,424.15,Bengaluru,Karnataka,Net Banking,Delivered,Mobile App,1.0,No
+ORD-10083,2025-10-26,CUST-1019,Premium,PRD-001,Wireless Mouse,Electronics,1,599,5,29.95,99,668.05,320,298.55,Hyderabad,Telangana,Credit Card,Shipped,Mobile App,,No
+ORD-10084,2026-10-03,CUST-1058,Premium,PRD-010,Bedsheet Set,Home & Kitchen,3,999,0,0.0,60,3057.0,510,1497.0,Lucknow,Uttar Pradesh,Credit Card,Delivered,Mobile App,9.0,No
+ORD-10085,2025-05-26,CUST-1113,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,5,74.95,80,1504.05,850,614.05,Mumbai,Maharashtra,Cash on Delivery,Returned,Marketplace,5.0,Yes
+ORD-10086,2025-11-08,CUST-1113,New,PRD-012,Sunscreen SPF 50,Beauty,4,499,15,299.4,80,1776.6,260,696.6,Pune,Maharashtra,Net Banking,Shipped,Website,,No
+ORD-10087,2026-03-19,CUST-1069,Premium,PRD-012,Sunscreen SPF 50,Beauty,2,499,0,0.0,0,998.0,260,478.0,Kolkata,West Bengal,UPI,Delivered,Website,1.0,No
+ORD-10088,2026-04-27,CUST-1112,Premium,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,5,144.95,0,2754.05,1900,854.05,Lucknow,Uttar Pradesh,Cash on Delivery,Cancelled,Website,,No
+ORD-10089,2026-04-27,CUST-1106,Premium,PRD-006,Running Shoes,Fashion,1,2199,20,439.8,0,1759.2,1250,509.2,Pune,Maharashtra,Cash on Delivery,Delivered,Mobile App,6.0,No
+ORD-10090,2026-11-10,CUST-1030,Returning,PRD-007,Backpack,Fashion,1,1299,0,0.0,40,1339.0,700,619.0,Kochi,Kerala,Net Banking,Delivered,Website,6.0,No
+ORD-10091,2026-11-05,CUST-1093,Premium,PRD-014,Study Table,Furniture,1,3999,0,0.0,0,3999.0,2700,1299.0,Kochi,Kerala,Cash on Delivery,Cancelled,Marketplace,,No
+ORD-10092,2026-03-29,CUST-1125,New,PRD-013,Office Chair,Furniture,1,5499,15,824.85,0,4674.15,3700,974.15,Mumbai,Maharashtra,UPI,Delivered,Marketplace,8.0,No
+ORD-10093,2026-09-16,CUST-1105,New,PRD-013,Office Chair,Furniture,2,5499,5,549.9,80,10528.1,3700,3088.1,Hyderabad,Telangana,Credit Card,Delivered,Website,9.0,No
+ORD-10094,2026-04-18,CUST-1070,Returning,PRD-002,Bluetooth Headphones,Electronics,3,1499,10,449.7,99,4146.3,850,1546.8,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,Mobile App,9.0,No
+ORD-10095,2025-09-07,CUST-1035,New,PRD-008,Water Bottle,Home & Kitchen,1,349,0,0.0,80,429.0,130,259.0,Kochi,Kerala,Debit Card,Cancelled,Mobile App,,No
+ORD-10096,2025-12-15,CUST-1149,Premium,PRD-015,Notebook Pack,Stationery,1,199,0,0.0,40,239.0,80,139.0,Kochi,Kerala,Cash on Delivery,Returned,Website,5.0,Yes
+ORD-10097,2026-04-03,CUST-1117,Returning,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,15,434.85,80,2544.15,1900,604.15,Ahmedabad,Gujarat,Credit Card,Shipped,Marketplace,,No
+ORD-10098,2025-09-02,CUST-1098,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,10,99.9,0,899.1,510,389.1,Pune,Maharashtra,Credit Card,Delivered,Mobile App,8.0,No
+ORD-10099,2025-02-07,CUST-1026,Premium,PRD-003,Smart Watch,Electronics,4,2499,5,499.8,0,9496.2,1550,3296.2,Kochi,Kerala,Cash on Delivery,Shipped,Website,,No
+ORD-10100,2025-05-28,CUST-1102,Premium,PRD-007,Backpack,Fashion,4,1299,0,0.0,60,5256.0,700,2426.0,Lucknow,Uttar Pradesh,UPI,Delivered,Mobile App,6.0,No
+ORD-10101,2026-07-01,CUST-1061,Premium,PRD-007,Backpack,Fashion,2,1299,10,259.8,80,2418.2,700,978.2,Kolkata,West Bengal,Debit Card,Delivered,Website,2.0,No
+ORD-10102,2025-04-03,CUST-1043,Premium,PRD-007,Backpack,Fashion,2,1299,20,519.6,0,2078.4,700,678.4,Delhi,Delhi,Debit Card,Shipped,Website,,No
+ORD-10103,2025-02-17,CUST-1136,Returning,PRD-006,Running Shoes,Fashion,1,2199,5,109.95,60,2149.05,1250,869.05,Mumbai,Maharashtra,net banking,Delivered,Marketplace,4.0,No
+ORD-10104,2025-07-04,CUST-1128,Premium,PRD-003,Smart Watch,Electronics,1,2499,10,249.9,80,2329.1,1550,739.1,Bengaluru,Karnataka,Credit Card,Returned,Website,4.0,Yes
+ORD-10105,2026-04-18,CUST-1074,Premium,PRD-011,Face Wash,Beauty,1,249,20,49.8,0,199.2,110,89.2,Chennai,Tamil Nadu,Net Banking,Shipped,Website,,No
+ORD-10106,2025-03-17,CUST-1065,Returning,PRD-008,Water Bottle,Home & Kitchen,5,349,5,87.25,99,1756.75,130,1057.25,Kolkata,West Bengal,Debit Card,Shipped,Website,,No
+ORD-10107,2026-01-29,CUST-1076,New,PRD-014,Study Table,Furniture,1,3999,10,399.9,80,3679.1,2700,939.1,Ahmedabad,Gujarat,Cash on Delivery,Delivered,Mobile App,5.0,No
+ORD-10108,2025-01-09,CUST-1074,New,PRD-010,Bedsheet Set,Home & Kitchen,2,999,0,0.0,80,2078.0,510,1018.0,Lucknow,Uttar Pradesh,Net Banking,Returned,Mobile App,8.0,Yes
+ORD-10109,2025-08-13,CUST-1025,Premium,PRD-011,Face Wash,Beauty,2,249,20,99.6,99,497.4,110,227.9,Hyderabad,Telangana,UPI,Returned,Mobile App,3.0,Yes
+ORD-10110,2026-03-28,CUST-1107,New,PRD-001,Wireless Mouse,Electronics,1,599,0,0.0,0,599.0,320,279.0,Jaipur,Rajasthan,Credit Card,Delivered,Website,6.0,No
+ORD-10111,2026-07-07,CUST-1076,Premium,PRD-015,Notebook Pack,Stationery,1,199,5,9.95,0,189.05,80,109.05,Kolkata,West Bengal,Debit Card,Delivered,Website,8.0,No
+ORD-10112,2026-04-25,CUST-1143,Returning,PRD-002,Bluetooth Headphones,Electronics,2,1499,0,0.0,99,3097.0,850,1347.5,Bengaluru,Karnataka,UPI,Returned,Mobile App,7.0,Yes
+ORD-10113,2025-01-15,CUST-1150,Returning,PRD-005,Cotton T-Shirt,Fashion,1,499,5,24.95,99,573.05,220,303.55,Kochi,Kerala,Debit Card,Returned,Website,5.0,Yes
+ORD-10114,2025-08-28,CUST-1057,Premium,PRD-008,Water Bottle,Home & Kitchen,2,349,15,104.7,40,633.3,130,353.3,Mumbai,Maharashtra,UPI,Cancelled,Marketplace,,No
+ORD-10115,2026-04-21,CUST-1010,Returning,PRD-015,Notebook Pack,Stationery,1,199,10,19.9,0,179.1,80,99.1,Kozhikode,Kerala,Cash on Delivery,Delivered,Website,1.0,No
+ORD-10116,2025-04-10,CUST-1108,Premium,PRD-004,USB-C Charger,Electronics,1,799,10,79.9,40,759.1,420,319.1,Kochi,Kerala,Credit Card,Returned,Mobile App,9.0,Yes
+ORD-10117,2026-11-02,CUST-1056,Returning,PRD-002,Bluetooth Headphones,Electronics,2,1499,5,149.9,0,2848.1,850,1148.1,Ahmedabad,Gujarat,Cash on Delivery,Returned,Website,6.0,Yes
+ORD-10118,2026-01-07,CUST-1071,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,20,299.8,40,1239.2,850,369.2,Lucknow,Uttar Pradesh,UPI,Delivered,Mobile App,7.0,No
+ORD-10119,2025-04-04,CUST-1063,New,PRD-011,Face Wash,Beauty,2,249,15,74.7,0,423.3,110,203.3,Hyderabad,Telangana,Net Banking,Delivered,Website,6.0,No
+ORD-10120,2025-03-12,CUST-1001,Returning,PRD-014,Study Table,Furniture,1,3999,0,0.0,0,3999.0,2700,1299.0,Kochi,Kerala,Credit Card,Delivered,Website,3.0,No
+ORD-10121,2026-07-08,CUST-1061,Premium,PRD-005,Cotton T-Shirt,Fashion,1,499,0,0.0,0,499.0,220,279.0,Bengaluru,Karnataka,Debit Card,Delivered,Website,6.0,No
+ORD-10122,2025-06-28,CUST-1122,Returning,PRD-005,Cotton T-Shirt,Fashion,1,499,10,49.9,80,529.1,220,269.1,Mumbai,Maharashtra,Debit Card,Delivered,Marketplace,2.0,No
+ORD-10123,2026-08-31,CUST-1078,Returning,PRD-002,Bluetooth Headphones,Electronics,1,1499,15,224.85,0,1274.15,850,424.15,Ahmedabad,Gujarat,UPI,Returned,Website,9.0,Yes
+ORD-10124,2026-05-06,CUST-1019,New,PRD-014,Study Table,Furniture,1,3999,0,0.0,60,4059.0,2700,1329.0,Pune,Maharashtra,Debit Card,Returned,Marketplace,8.0,Yes
+ORD-10125,2025-06-01,CUST-1084,Returning,PRD-002,Bluetooth Headphones,Electronics,1,1499,20,299.8,80,1279.2,850,389.2,Bengaluru,Karnataka,Net Banking,Cancelled,Marketplace,,No
+ORD-10126,2025-10-29,CUST-1056,Returning,PRD-008,Water Bottle,Home & Kitchen,2,349,0,0.0,99,797.0,130,487.5,Kochi,Kerala,Cash on Delivery,Delivered,Website,9.0,No
+ORD-10127,2026-02-28,CUST-1081,Premium,PRD-006,Running Shoes,Fashion,1,2199,20,439.8,0,1759.2,1250,509.2,Ahmedabad,Gujarat,Debit Card,Delivered,Mobile App,7.0,No
+ORD-10128,2025-06-06,CUST-1025,Premium,PRD-011,Face Wash,Beauty,1,249,0,0.0,0,249.0,110,139.0,Ahmedabad,Gujarat,Debit Card,Shipped,Website,,No
+ORD-10129,2026-07-24,CUST-1106,Returning,PRD-001,Wireless Mouse,Electronics,4,599,15,359.4,40,2076.6,320,776.6,Jaipur,Rajasthan,Cash on Delivery,Returned,Marketplace,2.0,Yes
+ORD-10130,2025-02-22,CUST-1055,New,PRD-005,Cotton T-Shirt,Fashion,1,499,0,0.0,80,579.0,220,319.0,Jaipur,Rajasthan,Cash on Delivery,Cancelled,Website,,No
+ORD-10131,2025-04-21,CUST-1144,Premium,PRD-006,Running Shoes,Fashion,1,2199,5,109.95,80,2169.05,1250,879.05,Kochi,Kerala,Net Banking,Delivered,Marketplace,7.0,No
+ORD-10132,2026-10-21,CUST-1047,Returning,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,20,1159.6,99,4737.4,1900,887.9,Mumbai,Maharashtra,Debit Card,Delivered,Mobile App,1.0,No
+ORD-10133,2025-12-26,CUST-1018,New,PRD-001,Wireless Mouse,Electronics,3,599,15,269.55,99,1626.45,320,616.95, Bengaluru ,Karnataka,UPI,Shipped,Website,,No
+ORD-10134,2026-06-28,CUST-1084,Premium,PRD-004,USB-C Charger,Electronics,1,799,5,39.95,0,759.05,420,339.05,Pune,Maharashtra,Net Banking,Delivered,Website,5.0,No
+ORD-10135,2025-02-23,CUST-1114,Premium,PRD-003,Smart Watch,Electronics,2,2499,0,0.0,99,5097.0,1550,1947.5,Bengaluru,Karnataka,Cash on Delivery,Delivered,Mobile App,5.0,No
+ORD-10136,2026-09-14,CUST-1029,Returning,PRD-008,Water Bottle,Home & Kitchen,1,349,15,52.35,0,296.65,130,166.65,Pune,Maharashtra,Net Banking,Delivered,Mobile App,7.0,No
+ORD-10137,2026-06-24,CUST-1053,Returning,PRD-011,Face Wash,Beauty,1,249,10,24.9,80,304.1,110,154.1,Chennai,Tamil Nadu,Credit Card,Delivered,Website,1.0,No
+ORD-10138,2025-09-19,CUST-1045,New,PRD-005,Cotton T-Shirt,Fashion,1,499,10,49.9,99,548.1,220,278.6,Kolkata,West Bengal,Cash on Delivery,Shipped,Marketplace,,No
+ORD-10139,2025-08-24,CUST-1011,Returning,PRD-009,Mixer Grinder,Home & Kitchen,3,2899,5,434.85,0,8262.15,1900,2562.15,Kochi,Kerala,UPI,Shipped,Mobile App,,No
+ORD-10140,2025-03-21,CUST-1075,New,PRD-014,Study Table,Furniture,2,3999,15,1199.7,60,6858.3,2700,1428.3,Kolkata,West Bengal,Cash on Delivery,Returned,Website,7.0,Yes
+ORD-10141,2025-11-29,CUST-1028,New,PRD-003,Smart Watch,Electronics,1,2499,20,499.8,40,2039.2,1550,469.2,Jaipur,Rajasthan,Cash on Delivery,Delivered,Marketplace,7.0,No
+ORD-10142,2026-02-15,CUST-1086,New,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,5,144.95,99,2853.05,1900,903.55,Delhi,Delhi,UPI,Delivered,Marketplace,4.0,No
+ORD-10143,2026-10-11,CUST-1061,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,5,74.95,40,1464.05,850,594.05,Kochi,Kerala,Credit Card,Returned,Mobile App,3.0,Yes
+ORD-10144,2025-07-22,CUST-1119,Premium,PRD-003,Smart Watch,Electronics,1,2499,20,499.8,0,1999.2,1550,449.2,Jaipur,Rajasthan,Net Banking,Delivered,Mobile App,8.0,No
+ORD-10145,2026-08-02,CUST-1113,New,PRD-011,Face Wash,Beauty,5,249,5,62.25,99,1281.75,110,682.25,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,Mobile App,3.0,No
+ORD-10146,2026-10-09,CUST-1119,Returning,PRD-005,Cotton T-Shirt,Fashion,2,499,5,49.9,80,1028.1,220,548.1,Chennai,Tamil Nadu,UPI,Delivered,Website,5.0,No
+ORD-10147,2026-01-13,CUST-1130,Returning,PRD-014,Study Table,Furniture,1,3999,0,0.0,80,4079.0,2700,1339.0,Chennai,Tamil Nadu,Cash on Delivery,Cancelled,Marketplace,,No
+ORD-10148,2026-07-22,CUST-1083,Premium,PRD-013,Office Chair,Furniture,3,5499,10,1649.7,80,14927.3,3700,3787.3,Kozhikode,Kerala,Cash on Delivery,Returned,Marketplace,4.0,Yes
+ORD-10149,2025-06-04,CUST-1045,New,PRD-001,Wireless Mouse,Electronics,1,599,5,29.95,99,668.05,320,298.55,Ahmedabad,Gujarat,Credit Card,Delivered,Marketplace,9.0,No
+ORD-10150,2026-03-25,CUST-1100,Returning,PRD-008,Water Bottle,Home & Kitchen,1,349,0,0.0,40,389.0,130,239.0,Kochi,Kerala,Debit Card,Delivered,Marketplace,5.0,No
+ORD-10151,2026-09-05,CUST-1099,Returning,PRD-001,Wireless Mouse,Electronics,2,599,0,0.0,40,1238.0,320,578.0,Lucknow,Uttar Pradesh,Debit Card,Delivered,Marketplace,9.0,No
+ORD-10152,2026-11-04,CUST-1037,Returning,PRD-015,Notebook Pack,Stationery,3,199,5,29.85,0,567.15,80,327.15,Jaipur,Rajasthan,Debit Card,Cancelled,Marketplace,,No
+ORD-10153,2026-11-10,CUST-1097,Premium,PRD-007,Backpack,Fashion,2,1299,0,0.0,40,2638.0,700,1218.0,Bengaluru,Karnataka,Debit Card,Cancelled,Website,,No
+ORD-10154,2026-06-24,CUST-1080,New,PRD-002,Bluetooth Headphones,Electronics,2,1499,15,449.7,40,2588.3,850,868.3,Lucknow,Uttar Pradesh,Credit Card,Delivered,Mobile App,6.0,No
+ORD-10155,2026-05-13,CUST-1130,Premium,PRD-004,USB-C Charger,Electronics,5,799,0,0.0,0,3995.0,420,1895.0,Hyderabad,Telangana,Net Banking,Delivered,Website,2.0,No
+ORD-10156,2026-11-09,CUST-1043,Premium,PRD-006,Running Shoes,Fashion,1,2199,10,219.9,0,1979.1,1250,729.1,Jaipur,Rajasthan,Cash on Delivery,Delivered,Website,3.0,No
+ORD-10157,2026-02-25,CUST-1060,Premium,PRD-006,Running Shoes,Fashion,2,2199,10,439.8,80,4038.2,1250,1498.2,Lucknow,Uttar Pradesh,Credit Card,Delivered,Mobile App,8.0,No
+ORD-10158,2026-04-26,CUST-1073,Returning,PRD-015,Notebook Pack,Stationery,1,199,15,29.85,60,229.15,80,119.15,Hyderabad,Telangana,Net Banking,Shipped,Marketplace,,No
+ORD-10159,2026-03-05,CUST-1096,Premium,PRD-003,Smart Watch,Electronics,3,2499,0,0.0,40,7537.0,1550,2867.0,Hyderabad,Telangana,UPI,Delivered,Marketplace,8.0,No
+ORD-10160,2026-06-13,CUST-1132,New,PRD-014,Study Table,Furniture,1,3999,0,0.0,40,4039.0,2700,1319.0,Delhi,Delhi,Cash on Delivery,Shipped,Website,,No
+ORD-10161,2025-08-16,CUST-1129,Returning,PRD-014,Study Table,Furniture,3,3999,0,0.0,60,12057.0,2700,3927.0,Ahmedabad,Gujarat,Credit Card,Delivered,Mobile App,7.0,No
+ORD-10162,2025-03-25,CUST-1038,New,PRD-006,Running Shoes,Fashion,1,2199,0,0.0,99,2298.0,1250,998.5,Hyderabad,Telangana,UPI,Returned,Mobile App,6.0,Yes
+ORD-10163,2026-04-29,CUST-1002,New,PRD-012,Sunscreen SPF 50,Beauty,2,499,10,99.8,60,958.2,260,408.2,Bengaluru,Karnataka,UPI,Cancelled,Mobile App,,No
+ORD-10164,2025-08-09,CUST-1109,New,PRD-014,Study Table,Furniture,1,3999,20,799.8,80,3279.2,2700,539.2,Bengaluru,Karnataka,Debit Card,Cancelled,Website,,No
+ORD-10165,2025-11-05,CUST-1017,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,20,299.8,80,1279.2,850,389.2,Mumbai,Maharashtra,Cash on Delivery,Shipped,Marketplace,,No
+ORD-10166,2026-07-03,CUST-1110,New,PRD-001,Wireless Mouse,Electronics,1,599,0,0.0,99,698.0,320,328.5,Lucknow,Uttar Pradesh,Net Banking,Delivered,Mobile App,5.0,No
+ORD-10167,2025-09-04,CUST-1093,New,PRD-010,Bedsheet Set,Home & Kitchen,1,999,20,199.8,0,799.2,510,289.2,Pune,Maharashtra,Net Banking,Cancelled,Marketplace,,No
+ORD-10168,2026-06-04,CUST-1096,Returning,PRD-013,Office Chair,Furniture,2,5499,10,1099.8,60,9958.2,3700,2528.2,Kochi,Kerala,UPI,Delivered,Mobile App,7.0,No
+ORD-10169,2025-03-11,CUST-1086,New,PRD-006,Running Shoes,Fashion,2,2199,20,879.6,0,3518.4,1250,1018.4,Hyderabad,Telangana,UPI,Cancelled,Mobile App,,No
+ORD-10170,2026-07-14,CUST-1047,New,PRD-006,Running Shoes,Fashion,1,2199,20,439.8,60,1819.2,1250,539.2,Lucknow,Uttar Pradesh,UPI,Returned,Marketplace,8.0,Yes
+ORD-10171,2026-04-14,CUST-1132,Returning,PRD-001,Wireless Mouse,Electronics,1,599,0,0.0,0,599.0,320,279.0,Chennai,Tamil Nadu,Net Banking,Delivered,Mobile App,5.0,No
+ORD-10172,2025-09-17,CUST-1070,New,PRD-001,Wireless Mouse,Electronics,1,599,5,29.95,0,569.05,320,249.05,Lucknow,Uttar Pradesh,Debit Card,Returned,Mobile App,6.0,Yes
+ORD-10173,2026-02-14,CUST-1128,Returning,PRD-012,Sunscreen SPF 50,Beauty,3,499,10,149.7,40,1387.3,260,587.3,Ahmedabad,Gujarat,Net Banking,Delivered,Mobile App,8.0,No
+ORD-10174,2025-03-26,CUST-1076,Returning,PRD-012,Sunscreen SPF 50,Beauty,1,499,15,74.85,0,424.15,260,164.15,Pune,Maharashtra,UPI,Cancelled,Website,,No
+ORD-10175,2025-12-02,CUST-1043,Premium,PRD-011,Face Wash,Beauty,1,249,15,37.35,99,310.65,110,151.15,Chennai,Tamil Nadu,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10176,2026-04-03,CUST-1071,Premium,PRD-001,Wireless Mouse,Electronics,3,599,5,89.85,80,1787.15,320,787.15,Kozhikode,Kerala,UPI,Shipped,Website,,No
+ORD-10177,2026-10-15,CUST-1037,Premium,PRD-007,Backpack,Fashion,1,1299,20,259.8,99,1138.2,700,388.7,Kolkata,West Bengal,Cash on Delivery,Delivered,Website,1.0,No
+ORD-10178,2025-05-10,CUST-1146,New,PRD-002,Bluetooth Headphones,Electronics,2,1499,5,149.9,40,2888.1,850,1168.1, Hyderabad ,Telangana,Net Banking,Shipped,Website,,No
+ORD-10179,2026-04-06,CUST-1094,Returning,PRD-006,Running Shoes,Fashion,1,2199,0,0.0,80,2279.0,1250,989.0,Kolkata,West Bengal,Debit Card,Delivered,Marketplace,9.0,No
+ORD-10180,2025-10-13,CUST-1100,Premium,PRD-004,USB-C Charger,Electronics,1,799,0,0.0,60,859.0,420,409.0,Delhi,Delhi,UPI,Cancelled,Mobile App,,No
+ORD-10181,2025-09-24,CUST-1052,,PRD-012,Sunscreen SPF 50,Beauty,1,499,15,74.85,40,464.15,260,184.15,Ahmedabad,Gujarat,Credit Card,Returned,Website,8.0,Yes
+ORD-10182,2026-04-08,CUST-1017,Premium,PRD-003,Smart Watch,Electronics,1,2499,0,0.0,99,2598.0,1550,998.5,Kozhikode,Kerala,Net Banking,Delivered,Mobile App,6.0,No
+ORD-10183,2025-11-04,CUST-1131,New,PRD-014,Study Table,Furniture,2,3999,20,1599.6,99,6497.4,2700,1047.9,Bengaluru,Karnataka,UPI,Delivered,Website,6.0,No
+ORD-10184,2025-05-23,CUST-1142,New,PRD-004,USB-C Charger,Electronics,1,799,15,119.85,80,759.15,420,299.15,Ahmedabad,Gujarat,Net Banking,Delivered,Website,8.0,No
+ORD-10185,2025-03-09,CUST-1106,Returning,PRD-005,Cotton T-Shirt,Fashion,5,499,20,499.0,60,2056.0,220,926.0,Pune,Maharashtra,Net Banking,Cancelled,Website,,No
+ORD-10186,2025-05-09,CUST-1089,New,PRD-006,Running Shoes,Fashion,1,2199,10,219.9,99,2078.1,1250,778.6,Lucknow,Uttar Pradesh,Net Banking,Cancelled,Marketplace,,No
+ORD-10187,2026-08-25,CUST-1040,Returning,PRD-003,Smart Watch,Electronics,1,2499,0,0.0,0,2499.0,1550,949.0,Bengaluru,Karnataka,Credit Card,Cancelled,Website,,No
+ORD-10188,2025-11-27,CUST-1051,Premium,PRD-015,Notebook Pack,Stationery,1,199,15,29.85,40,209.15,80,109.15,Kozhikode,Kerala,Net Banking,Delivered,Mobile App,5.0,No
+ORD-10189,2025-05-09,CUST-1149,New,PRD-011,Face Wash,Beauty,2,249,0,0.0,80,578.0,110,318.0,Chennai,Tamil Nadu,Credit Card,Returned,Marketplace,3.0,Yes
+ORD-10190,2026-10-02,CUST-1012,Premium,PRD-012,Sunscreen SPF 50,Beauty,1,499,15,74.85,0,424.15,260,164.15,Jaipur,Rajasthan,Net Banking,Delivered,Mobile App,2.0,No
+ORD-10191,2026-10-29,CUST-1140,Returning,PRD-004,USB-C Charger,Electronics,1,799,20,159.8,0,639.2,420,219.2,Jaipur,Rajasthan,Debit Card,Shipped,Mobile App,,No
+ORD-10192,2025-09-08,CUST-1041,Returning,PRD-013,Office Chair,Furniture,1,5499,10,549.9,0,4949.1,3700,1249.1,Lucknow,Uttar Pradesh,Cash on Delivery,Returned,Mobile App,1.0,Yes
+ORD-10193,2026-04-21,CUST-1103,New,PRD-004,USB-C Charger,Electronics,2,799,5,79.9,99,1617.1,420,727.6,Kolkata,West Bengal,Debit Card,Delivered,Marketplace,6.0,No
+ORD-10194,2026-07-30,CUST-1064,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,0,0.0,40,1539.0,850,669.0,Kolkata,West Bengal,UPI,Shipped,Website,,No
+ORD-10195,2025-10-25,CUST-1081,New,PRD-007,Backpack,Fashion,1,1299,0,0.0,40,1339.0,700,619.0,Jaipur,Rajasthan,Credit Card,Cancelled,Mobile App,,No
+ORD-10196,2026-06-12,CUST-1130,Returning,PRD-008,Water Bottle,Home & Kitchen,3,349,10,104.7,0,942.3,130,552.3,Ahmedabad,Gujarat,Credit Card,Delivered,Website,7.0,No
+ORD-10197,2026-08-21,CUST-1074,Premium,PRD-006,Running Shoes,Fashion,1,2199,10,219.9,80,2059.1,1250,769.1,Mumbai,Maharashtra,UPI,Returned,Website,8.0,Yes
+ORD-10198,2026-03-18,CUST-1014,Premium,PRD-003,Smart Watch,Electronics,2,2499,10,499.8,40,4538.2,1550,1418.2,Chennai,Tamil Nadu,Net Banking,Delivered,Website,7.0,No
+ORD-10199,2026-01-07,CUST-1072,Premium,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,15,434.85,60,2524.15,1900,594.15,Chennai,Tamil Nadu,Net Banking,Cancelled,Website,,No
+ORD-10200,2025-05-12,CUST-1051,Premium,PRD-002,Bluetooth Headphones,Electronics,1,1499,5,74.95,80,1504.05,850,614.05,Pune,Maharashtra,Net Banking,Delivered,Mobile App,3.0,No
+ORD-10201,2026-05-28,CUST-1133,Returning,PRD-001,Wireless Mouse,Electronics,1,599,20,119.8,40,519.2,320,179.2,Mumbai,Maharashtra,Credit Card,Shipped,Marketplace,,No
+ORD-10202,2026-06-12,CUST-1077,Premium,PRD-003,Smart Watch,Electronics,4,2499,5,499.8,0,9496.2,1550,3296.2,Kolkata,West Bengal,Debit Card,Shipped,Marketplace,,No
+ORD-10203,2026-06-06,CUST-1085,Premium,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,5,289.9,60,5568.1,1900,1738.1,Ahmedabad,Gujarat,UPI,Delivered,Mobile App,6.0,No
+ORD-10204,2026-08-21,CUST-1122,Returning,PRD-005,Cotton T-Shirt,Fashion,3,499,20,299.4,0,1197.6,220,537.6,Kozhikode,Kerala,Net Banking,Cancelled,Marketplace,,No
+ORD-10205,2025-08-22,CUST-1038,Premium,PRD-012,Sunscreen SPF 50,Beauty,2,499,0,0.0,80,1078.0,260,518.0,Mumbai,Maharashtra,Credit Card,Returned,Website,7.0,Yes
+ORD-10206,2026-08-10,CUST-1039,Returning,PRD-012,Sunscreen SPF 50,Beauty,1,499,10,49.9,40,489.1,260,209.1,Delhi,Delhi,Credit Card,Shipped,Mobile App,,No
+ORD-10207,2026-05-29,CUST-1133,New,PRD-013,Office Chair,Furniture,4,5499,20,4399.2,99,17695.8,3700,2846.3,Jaipur,Rajasthan,Net Banking,Delivered,Mobile App,3.0,No
+ORD-10208,2026-11-10,CUST-1088,Premium,PRD-008,Water Bottle,Home & Kitchen,1,349,0,0.0,60,409.0,130,249.0,Kochi,Kerala,Debit Card,Cancelled,Marketplace,,No
+ORD-10209,2026-10-21,CUST-1143,Returning,PRD-013,Office Chair,Furniture,1,5499,10,549.9,0,4949.1,3700,1249.1,Kozhikode,Kerala,Credit Card,Delivered,Mobile App,5.0,No
+ORD-10210,2025-10-23,CUST-1090,Premium,PRD-012,Sunscreen SPF 50,Beauty,2,499,10,99.8,40,938.2,260,398.2,Hyderabad,Telangana,Debit Card,Shipped,Mobile App,,No
+ORD-10211,2025-05-05,CUST-1011,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,10,99.9,40,939.1,510,409.1,Lucknow,Uttar Pradesh,UPI,Delivered,Mobile App,5.0,No
+ORD-10212,2026-03-29,CUST-1070,Premium,PRD-011,Face Wash,Beauty,2,249,0,0.0,0,498.0,110,278.0, Chennai ,Tamil Nadu,Debit Card,Cancelled,Website,,No
+ORD-10213,2025-04-22,CUST-1058,Premium,PRD-010,Bedsheet Set,Home & Kitchen,2,999,0,0.0,0,1998.0,510,978.0,Kozhikode,Kerala,Credit Card,Returned,Website,9.0,Yes
+ORD-10214,2025-04-13,CUST-1141,New,PRD-007,Backpack,Fashion,2,1299,0,0.0,99,2697.0,700,1247.5,Kolkata,West Bengal,Cash on Delivery,Delivered,Marketplace,1.0,No
+ORD-10215,2026-05-03,CUST-1023,Premium,PRD-008,Water Bottle,Home & Kitchen,1,349,5,17.45,40,371.55,130,221.55,Lucknow,Uttar Pradesh,Net Banking,Delivered,Website,1.0,No
+ORD-10216,2026-07-02,CUST-1046,New,PRD-012,Sunscreen SPF 50,Beauty,3,499,0,0.0,0,1497.0,260,717.0,Kozhikode,Kerala,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10217,2025-07-10,CUST-1146,Premium,PRD-015,Notebook Pack,Stationery,4,199,5,39.8,0,756.2,80,436.2,Kozhikode,Kerala,UPI,Delivered,Mobile App,5.0,No
+ORD-10218,2025-10-19,CUST-1120,Returning,PRD-008,Water Bottle,Home & Kitchen,1,349,10,34.9,0,314.1,130,184.1,Lucknow,Uttar Pradesh,Credit Card,Cancelled,Website,,No
+ORD-10219,2025-12-05,CUST-1087,Returning,PRD-003,Smart Watch,Electronics,1,2499,5,124.95,99,2473.05,1550,873.55,Kozhikode,Kerala,Net Banking,Delivered,Marketplace,1.0,No
+ORD-10220,2025-07-17,CUST-1084,New,PRD-003,Smart Watch,Electronics,3,2499,10,749.7,60,6807.3,1550,2127.3,Jaipur,Rajasthan,Cash on Delivery,Cancelled,Marketplace,,No
+ORD-10221,2025-04-08,CUST-1061,Returning,PRD-003,Smart Watch,Electronics,1,2499,0,0.0,0,2499.0,1550,949.0,Bengaluru,Karnataka,Debit Card,Delivered,Mobile App,7.0,No
+ORD-10222,2025-11-06,CUST-1016,Premium,PRD-010,Bedsheet Set,Home & Kitchen,2,999,5,99.9,99,1997.1,510,927.6,Kozhikode,Kerala,UPI,Delivered,Mobile App,4.0,No
+ORD-10223,2025-11-11,CUST-1076,Returning,PRD-003,Smart Watch,Electronics,2,2499,20,999.6,40,4038.4,1550,918.4,Pune,Maharashtra,Net Banking,Returned,Website,2.0,Yes
+ORD-10224,2025-08-13,CUST-1141,Returning,PRD-003,Smart Watch,Electronics,1,2499,20,499.8,80,2079.2,1550,489.2,Ahmedabad,Gujarat,Net Banking,Delivered,Marketplace,7.0,No
+ORD-10225,2025-08-12,CUST-1115,Premium,PRD-013,Office Chair,Furniture,2,5499,15,1649.7,0,9348.3,3700,1948.3,Hyderabad,Telangana,Debit Card,Cancelled,Website,,No
+ORD-10226,2026-08-01,CUST-1138,New,PRD-002,Bluetooth Headphones,Electronics,3,1499,15,674.55,0,3822.45,850,1272.45,Mumbai,Maharashtra,Credit Card,Cancelled,Mobile App,,No
+ORD-10227,2026-06-17,CUST-1024,Premium,PRD-008,Water Bottle,Home & Kitchen,2,349,20,139.6,80,638.4,130,338.4,Delhi,Delhi,Cash on Delivery,Shipped,Website,,No
+ORD-10228,2026-04-10,CUST-1119,Premium,PRD-003,Smart Watch,Electronics,1,2499,15,374.85,0,2124.15,1550,574.15,Kochi,Kerala,Debit Card,Cancelled,Marketplace,,No
+ORD-10229,2025-01-23,CUST-1019,New,PRD-007,Backpack,Fashion,3,1299,20,779.4,0,3117.6,700,1017.6,Chennai,Tamil Nadu,Cash on Delivery,Cancelled,Mobile App,,No
+ORD-10230,2025-03-07,CUST-1105,New,PRD-009,Mixer Grinder,Home & Kitchen,4,2899,0,0.0,60,11656.0,1900,4026.0,Mumbai,Maharashtra,Credit Card,Delivered,Marketplace,5.0,No
+ORD-10231,2026-10-24,CUST-1097,New,PRD-007,Backpack,Fashion,5,1299,10,649.5,60,5905.5,700,2375.5,Kolkata,West Bengal,Net Banking,Shipped,Website,,No
+ORD-10232,2026-11-01,CUST-1033,Premium,PRD-014,Study Table,Furniture,1,3999,15,599.85,60,3459.15,2700,729.15,Kolkata,West Bengal,Credit Card,Cancelled,Website,,No
+ORD-10233,2025-01-24,CUST-1098,New,PRD-005,Cotton T-Shirt,Fashion,2,499,15,149.7,60,908.3,220,438.3,Ahmedabad,Gujarat,Credit Card,Cancelled,Mobile App,,No
+ORD-10234,2025-12-21,CUST-1005,New,PRD-003,Smart Watch,Electronics,1,2499,20,499.8,0,1999.2,1550,449.2,Chennai,Tamil Nadu,Credit Card,Delivered,Website,7.0,No
+ORD-10235,2025-04-14,CUST-1012,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,20,199.8,99,898.2,510,338.7,Mumbai,Maharashtra,Cash on Delivery,Delivered,Website,4.0,No
+ORD-10236,2026-07-07,CUST-1148,Premium,PRD-004,USB-C Charger,Electronics,1,799,5,39.95,0,759.05,420,339.05,Mumbai,Maharashtra,Debit Card,Returned,Website,6.0,Yes
+ORD-10237,2025-11-06,CUST-1077,Returning,PRD-015,Notebook Pack,Stationery,5,199,15,149.25,0,845.75,80,445.75,Bengaluru,Karnataka,UPI,Shipped,Marketplace,,No
+ORD-10238,2026-08-29,CUST-1143,Returning,PRD-015,Notebook Pack,Stationery,3,199,20,119.4,99,576.6,80,287.1,Kozhikode,Kerala,UPI,Shipped,Mobile App,,No
+ORD-10239,2026-10-21,CUST-1105,New,PRD-011,Face Wash,Beauty,2,249,5,24.9,99,572.1,110,302.6,Pune,Maharashtra,Debit Card,Shipped,Mobile App,,No
+ORD-10240,2025-07-08,CUST-1119,New,PRD-013,Office Chair,Furniture,1,5499,0,0.0,40,5539.0,3700,1819.0,Kochi,Kerala,Net Banking,Returned,Mobile App,3.0,Yes
+ORD-10241,2026-03-03,CUST-1021,Returning,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,0,0.0,40,2939.0,1900,1019.0,Kochi,Kerala,Debit Card,Delivered,Website,6.0,No
+ORD-10242,2026-07-03,CUST-1011,New,PRD-012,Sunscreen SPF 50,Beauty,1,499,10,49.9,99,548.1,260,238.6,Hyderabad,Telangana,Credit Card,Cancelled,Marketplace,,No
+ORD-10243,2026-07-27,CUST-1049,Premium,PRD-004,USB-C Charger,Electronics,1,799,5,39.95,40,799.05,420,359.05,Ahmedabad,Gujarat,UPI,Delivered,Marketplace,4.0,No
+ORD-10244,2026-05-06,CUST-1062,Premium,PRD-015,Notebook Pack,Stationery,2,199,20,79.6,0,318.4,80,158.4,Hyderabad,Telangana,Debit Card,Shipped,Mobile App,,No
+ORD-10245,2026-01-25,CUST-1128,Returning,PRD-008,Water Bottle,Home & Kitchen,2,349,5,34.9,40,703.1,130,423.1,Kochi,Kerala,UPI,Delivered,Marketplace,9.0,No
+ORD-10246,2026-04-26,CUST-1012,Premium,PRD-013,Office Chair,Furniture,3,5499,5,824.85,40,15712.15,3700,4592.15,Kolkata,West Bengal,Credit Card,Shipped,Marketplace,,No
+ORD-10247,2025-05-30,CUST-1076,New,PRD-001,Wireless Mouse,Electronics,2,599,15,179.7,80,1098.3,320,418.3,Chennai,Tamil Nadu,Credit Card,Returned,Mobile App,7.0,Yes
+ORD-10248,2025-08-24,CUST-1066,Returning,PRD-007,Backpack,Fashion,3,1299,10,389.7,80,3587.3,700,1447.3,Jaipur,Rajasthan,Cash on Delivery,Returned,Mobile App,6.0,Yes
+ORD-10249,2025-06-22,CUST-1048,Premium,PRD-012,Sunscreen SPF 50,Beauty,1,499,20,99.8,80,479.2,260,179.2,Kolkata,West Bengal,UPI,Shipped,Marketplace,,No
+ORD-10250,2025-02-04,CUST-1036,Premium,PRD-014,Study Table,Furniture,4,3999,20,3199.2,0,12796.8,2700,1996.8,Delhi,Delhi,Credit Card,Delivered,Website,7.0,No
+ORD-10251,2025-06-04,CUST-1124,Premium,PRD-001,Wireless Mouse,Electronics,1,599,5,29.95,0,569.05,320,249.05,Hyderabad,Telangana,Cash on Delivery,Cancelled,Website,,No
+ORD-10252,2025-01-07,CUST-1138,Returning,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,0,0.0,80,2979.0,1900,1039.0,Kochi,Kerala,UPI,Returned,Marketplace,5.0,Yes
+ORD-10253,2026-03-17,CUST-1050,Premium,PRD-013,Office Chair,Furniture,1,5499,0,0.0,80,5579.0,3700,1839.0,Bengaluru,Karnataka,Net Banking,Delivered,Mobile App,4.0,No
+ORD-10254,2025-12-29,CUST-1063,Premium,PRD-005,Cotton T-Shirt,Fashion,1,499,10,49.9,60,509.1,220,259.1,Pune,Maharashtra,Credit Card,Cancelled,Mobile App,,No
+ORD-10255,2025-03-24,CUST-1097,Premium,PRD-011,Face Wash,Beauty,2,249,0,0.0,60,558.0,110,308.0,Lucknow,Uttar Pradesh,Cash on Delivery,Shipped,Website,,No
+ORD-10256,2026-10-15,CUST-1145,New,PRD-001,Wireless Mouse,Electronics,1,599,10,59.9,60,599.1,320,249.1,Kozhikode,Kerala,Net Banking,Returned,Website,6.0,Yes
+ORD-10257,2025-08-24,CUST-1072,Premium,PRD-004,USB-C Charger,Electronics,3,799,10,239.7,40,2197.3,420,917.3,Kozhikode,Kerala,Net Banking,Delivered,Marketplace,2.0,No
+ORD-10258,2025-02-03,CUST-1020,Returning,PRD-003,Smart Watch,Electronics,1,2499,0,0.0,80,2579.0,1550,989.0,Kolkata,West Bengal,Credit Card,Delivered,Marketplace,7.0,No
+ORD-10259,2025-09-04,CUST-1036,Premium,PRD-010,Bedsheet Set,Home & Kitchen,2,999,15,299.7,40,1738.3,510,698.3,Pune,Maharashtra,UPI,Shipped,Marketplace,,No
+ORD-10260,2025-12-21,CUST-1102,Returning,PRD-001,Wireless Mouse,Electronics,1,599,0,0.0,40,639.0,320,299.0,Delhi,Delhi,UPI,Cancelled,Marketplace,,No
+ORD-10261,2025-10-07,CUST-1111,New,PRD-013,Office Chair,Furniture,1,5499,5,274.95,80,5304.05,3700,1564.05,Ahmedabad,Gujarat,Net Banking,Shipped,Marketplace,,No
+ORD-10262,2026-01-25,CUST-1069,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,0,0.0,99,1598.0,850,698.5,Jaipur,Rajasthan,Cash on Delivery,Delivered,Marketplace,2.0,No
+ORD-10263,2026-10-12,CUST-1079,Returning,PRD-003,Smart Watch,Electronics,1,2499,5,124.95,0,2374.05,1550,824.05,Kozhikode,Kerala,Debit Card,Delivered,Mobile App,1.0,No
+ORD-10264,2025-04-15,CUST-1132,Returning,PRD-003,Smart Watch,Electronics,1,2499,10,249.9,80,2329.1,1550,739.1,Delhi,Delhi,UPI,Cancelled,Website,,No
+ORD-10265,2025-04-02,CUST-1004,Returning,PRD-006,Running Shoes,Fashion,1,2199,15,329.85,40,1909.15,1250,639.15,Kochi,Kerala,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10266,2025-03-28,CUST-1044,Premium,PRD-012,Sunscreen SPF 50,Beauty,3,499,0,0.0,80,1577.0,260,757.0,Kochi,Kerala,Cash on Delivery,Cancelled,Website,,No
+ORD-10267,2025-05-23,CUST-1071,Returning,PRD-005,Cotton T-Shirt,Fashion,1,499,0,0.0,0,499.0,220,279.0,Chennai,Tamil Nadu,Debit Card,Delivered,Mobile App,7.0,No
+ORD-10268,2025-03-20,CUST-1051,Returning,PRD-006,Running Shoes,Fashion,4,2199,20,1759.2,99,7135.8,1250,2086.3,Chennai,Tamil Nadu,UPI,Shipped,Website,,No
+ORD-10269,2025-11-08,CUST-1086,Returning,PRD-001,Wireless Mouse,Electronics,1,599,15,89.85,60,569.15,320,219.15,Pune,Maharashtra,Net Banking,Delivered,Website,8.0,No
+ORD-10270,2025-11-04,CUST-1102,Returning,PRD-006,Running Shoes,Fashion,4,2199,0,0.0,60,8856.0,1250,3826.0,Jaipur,Rajasthan,Debit Card,Delivered,Marketplace,3.0,No
+ORD-10271,2026-10-11,CUST-1094,New,PRD-008,Water Bottle,Home & Kitchen,2,349,5,34.9,60,723.1,130,433.1,Jaipur,Rajasthan,Net Banking,Delivered,Website,7.0,No
+ORD-10272,2026-08-30,CUST-1054,Returning,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,15,869.7,0,4928.3,1900,1128.3,Bengaluru,Karnataka,Debit Card,Returned,Marketplace,8.0,Yes
+ORD-10273,2025-03-12,CUST-1065,Premium,PRD-014,Study Table,Furniture,2,3999,0,0.0,99,8097.0,2700,2647.5,Pune,Maharashtra,Credit Card,Delivered,Marketplace,4.0,No
+ORD-10274,2026-03-10,CUST-1103,Premium,PRD-013,Office Chair,Furniture,1,5499,15,824.85,60,4734.15,3700,1004.15,Pune,Maharashtra,Net Banking,Cancelled,Marketplace,,No
+ORD-10275,2026-03-05,CUST-1022,New,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,5,289.9,99,5607.1,1900,1757.6,Mumbai,Maharashtra,Credit Card,Cancelled,Marketplace,,No
+ORD-10276,2025-12-30,CUST-1085,Returning,PRD-003,Smart Watch,Electronics,2,2499,15,749.7,99,4347.3,1550,1197.8,Lucknow,Uttar Pradesh,UPI,Returned,Website,7.0,Yes
+ORD-10277,2025-04-11,CUST-1148,New,PRD-005,Cotton T-Shirt,Fashion,1,499,15,74.85,80,504.15,220,244.15,Hyderabad,Telangana,Cash on Delivery,Cancelled,Mobile App,,No
+ORD-10278,2026-02-05,CUST-1124,New,PRD-008,Water Bottle,Home & Kitchen,2,349,15,104.7,0,593.3,130,333.3,Lucknow,Uttar Pradesh,Debit Card,Delivered,Mobile App,1.0,No
+ORD-10279,2025-03-29,CUST-1053,Premium,PRD-002,Bluetooth Headphones,Electronics,1,1499,5,74.95,40,1464.05,850,594.05,Kozhikode,Kerala,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10280,2026-05-03,CUST-1012,Premium,PRD-002,Bluetooth Headphones,Electronics,2,1499,10,299.8,40,2738.2,850,1018.2,Ahmedabad,Gujarat,UPI,Delivered,Website,5.0,No
+ORD-10281,2025-12-18,CUST-1045,Premium,PRD-011,Face Wash,Beauty,2,249,0,0.0,99,597.0,110,327.5,Delhi,Delhi,Credit Card,Delivered,Mobile App,9.0,No
+ORD-10282,2026-07-28,CUST-1111,Returning,PRD-007,Backpack,Fashion,1,1299,10,129.9,99,1268.1,700,518.6,Ahmedabad,Gujarat,UPI,Delivered,Marketplace,3.0,No
+ORD-10283,2026-09-21,CUST-1053,Returning,PRD-015,Notebook Pack,Stationery,1,199,10,19.9,60,239.1,80,129.1,Hyderabad,Telangana,UPI,Delivered,Marketplace,4.0,No
+ORD-10284,2025-04-15,CUST-1030,Returning,PRD-013,Office Chair,Furniture,1,5499,5,274.95,0,5224.05,3700,1524.05,Kochi,Kerala,Cash on Delivery,Shipped,Marketplace,,No
+ORD-10285,2026-10-17,CUST-1091,Returning,PRD-006,Running Shoes,Fashion,1,2199,10,219.9,80,2059.1,1250,769.1,Jaipur,Rajasthan,Net Banking,Delivered,Website,6.0,No
+ORD-10286,2025-11-01,CUST-1062,Returning,PRD-015,Notebook Pack,Stationery,2,199,20,79.6,0,318.4,80,158.4,Jaipur,Rajasthan,UPI,Delivered,Website,2.0,No
+ORD-10287,2026-01-18,CUST-1109,New,PRD-012,Sunscreen SPF 50,Beauty,1,499,10,49.9,80,529.1,260,229.1, Bengaluru ,Karnataka,Cash on Delivery,Delivered,Marketplace,7.0,No
+ORD-10288,2026-07-05,CUST-1074,New,PRD-012,Sunscreen SPF 50,Beauty,4,499,0,0.0,80,2076.0,260,996.0, Lucknow ,Uttar Pradesh,Credit Card,Delivered,Mobile App,8.0,No
+ORD-10289,2026-04-07,CUST-1099,Premium,PRD-010,Bedsheet Set,Home & Kitchen,3,999,0,0.0,60,3057.0,510,1497.0,Mumbai,Maharashtra,Net Banking,Delivered,Marketplace,4.0,No
+ORD-10290,2026-05-22,CUST-1043,New,PRD-007,Backpack,Fashion,1,1299,20,259.8,60,1099.2,700,369.2,Lucknow,Uttar Pradesh,Net Banking,Shipped,Website,,No
+ORD-10291,2025-08-14,CUST-1145,Premium,PRD-005,Cotton T-Shirt,Fashion,1,499,15,74.85,40,464.15,220,224.15,Mumbai,Maharashtra,Cash on Delivery,Delivered,Marketplace,8.0,No
+ORD-10292,2026-06-08,CUST-1011,Premium,PRD-002,Bluetooth Headphones,Electronics,1,1499,15,224.85,40,1314.15,850,444.15,Jaipur,Rajasthan,Cash on Delivery,Cancelled,Marketplace,,No
+ORD-10293,2025-08-12,CUST-1116,Returning,PRD-007,Backpack,Fashion,2,1299,20,519.6,0,2078.4,700,678.4,Delhi,Delhi,Debit Card,Delivered,Website,1.0,No
+ORD-10294,2026-03-26,CUST-1110,New,PRD-014,Study Table,Furniture,2,3999,0,0.0,0,7998.0,2700,2598.0,Delhi,Delhi,Net Banking,Returned,Website,6.0,Yes
+ORD-10295,2025-07-31,CUST-1072,Premium,PRD-014,Study Table,Furniture,3,3999,15,1799.55,40,10237.45,2700,2117.45,Hyderabad,Telangana,Net Banking,Cancelled,Website,,No
+ORD-10296,2025-11-28,CUST-1035,Returning,PRD-012,Sunscreen SPF 50,Beauty,1,499,5,24.95,80,554.05,260,254.05,Chennai,Tamil Nadu,upi,Returned,Mobile App,2.0,Yes
+ORD-10297,2026-11-03,CUST-1064,Premium,PRD-003,Smart Watch,Electronics,3,2499,0,0.0,0,7497.0,1550,2847.0,Kozhikode,Kerala,cash on delivery,Returned,Mobile App,6.0,Yes
+ORD-10298,2025-05-26,CUST-1020,Premium,PRD-010,Bedsheet Set,Home & Kitchen,1,999,10,99.9,60,959.1,510,419.1,Lucknow,Uttar Pradesh,UPI,Shipped,Mobile App,,No
+ORD-10299,2026-06-12,CUST-1084,Premium,PRD-012,Sunscreen SPF 50,Beauty,2,499,5,49.9,60,1008.1,260,458.1,Chennai,Tamil Nadu,UPI,Shipped,Marketplace,,No
+ORD-10300,2025-04-06,CUST-1102,New,PRD-012,Sunscreen SPF 50,Beauty,2,499,20,199.6,40,838.4,260,298.4,Ahmedabad,Gujarat,Cash on Delivery,Delivered,Website,9.0,No
+ORD-10301,2026-05-22,CUST-1034,Premium,PRD-005,Cotton T-Shirt,Fashion,3,499,5,74.85,80,1502.15,220,802.15,Kolkata,West Bengal,Cash on Delivery,Cancelled,Mobile App,,No
+ORD-10302,2025-02-19,CUST-1113,Returning,PRD-001,Wireless Mouse,Electronics,2,599,10,119.8,0,1078.2,320,438.2,Delhi,Delhi,UPI,Delivered,Mobile App,3.0,No
+ORD-10303,2025-07-27,CUST-1093,Returning,PRD-012,Sunscreen SPF 50,Beauty,3,499,5,74.85,0,1422.15,260,642.15,Bengaluru,Karnataka,UPI,Delivered,Mobile App,2.0,No
+ORD-10304,2026-10-27,CUST-1110,Premium,PRD-003,Smart Watch,Electronics,1,2499,5,124.95,99,2473.05,1550,873.55,Mumbai,Maharashtra,UPI,Returned,Marketplace,4.0,Yes
+ORD-10305,2025-04-08,CUST-1114,New,PRD-001,Wireless Mouse,Electronics,1,599,0,0.0,80,679.0,320,319.0,Hyderabad,Telangana,UPI,Delivered,Marketplace,9.0,No
+ORD-10306,2025-12-18,CUST-1019,New,PRD-014,Study Table,Furniture,5,3999,10,1999.5,99,18094.5,2700,4545.0,Delhi,Delhi,Cash on Delivery,Delivered,Website,8.0,No
+ORD-10307,2025-04-15,CUST-1035,Premium,PRD-002,Bluetooth Headphones,Electronics,1,1499,5,74.95,0,1424.05,850,574.05,Kolkata,West Bengal,Credit Card,Shipped,Website,,No
+ORD-10308,2026-06-28,CUST-1039,Returning,PRD-010,Bedsheet Set,Home & Kitchen,2,999,0,0.0,60,2058.0,510,1008.0,Mumbai,Maharashtra,Net Banking,Delivered,Marketplace,4.0,No
+ORD-10309,2026-03-30,CUST-1090,Returning,PRD-014,Study Table,Furniture,1,3999,0,0.0,0,3999.0,2700,1299.0,Hyderabad,Telangana,Debit Card,Delivered,Website,7.0,No
+ORD-10310,2025-09-11,CUST-1073,Premium,PRD-005,Cotton T-Shirt,Fashion,1,499,15,74.85,80,504.15,220,244.15,Lucknow,Uttar Pradesh,UPI,Cancelled,Marketplace,,No
+ORD-10311,2025-11-05,CUST-1076,Premium,PRD-004,USB-C Charger,Electronics,2,799,0,0.0,99,1697.0,420,807.5,Kochi,Kerala,UPI,Shipped,Website,,No
+ORD-10312,2026-05-22,CUST-1004,Returning,PRD-007,Backpack,Fashion,1,1299,20,259.8,80,1119.2,700,379.2,Delhi,Delhi,debit card,Delivered,Website,9.0,No
+ORD-10313,2026-02-01,CUST-1019,New,PRD-014,Study Table,Furniture,1,3999,15,599.85,99,3498.15,2700,748.65,Jaipur,Rajasthan,Net Banking,Delivered,Website,8.0,No
+ORD-10314,2025-01-15,CUST-1074,Premium,PRD-005,Cotton T-Shirt,Fashion,1,499,0,0.0,60,559.0,220,309.0,Hyderabad,Telangana,Net Banking,Cancelled,Mobile App,,No
+ORD-10315,2026-03-10,CUST-1040,Returning,PRD-012,Sunscreen SPF 50,Beauty,1,499,15,74.85,80,504.15,260,204.15,Pune,Maharashtra,UPI,Cancelled,Mobile App,,No
+ORD-10316,2025-03-22,CUST-1017,Returning,PRD-009,Mixer Grinder,Home & Kitchen,4,2899,0,0.0,80,11676.0,1900,4036.0,Hyderabad,Telangana,Cash on Delivery,Delivered,Marketplace,7.0,No
+ORD-10317,2025-09-02,CUST-1015,Returning,PRD-001,Wireless Mouse,Electronics,1,599,10,59.9,0,539.1,320,219.1,Hyderabad,Telangana,Credit Card,Shipped,Website,,No
+ORD-10318,2025-01-13,CUST-1133,Premium,PRD-012,Sunscreen SPF 50,Beauty,2,499,0,0.0,60,1058.0,260,508.0,Bengaluru,Karnataka,Debit Card,Delivered,Website,9.0,No
+ORD-10319,2026-01-16,CUST-1086,Returning,PRD-003,Smart Watch,Electronics,2,2499,5,249.9,99,4847.1,1550,1697.6,Kozhikode,Kerala,Debit Card,Delivered,Marketplace,1.0,No
+ORD-10320,2025-03-07,CUST-1117,Premium,PRD-005,Cotton T-Shirt,Fashion,4,499,20,399.2,0,1596.8,220,716.8,Kozhikode,Kerala,Debit Card,Shipped,Website,,No
+ORD-10321,2026-05-27,CUST-1059,Premium,PRD-014,Study Table,Furniture,1,3999,0,0.0,40,4039.0,2700,1319.0,Jaipur,Rajasthan,Net Banking,Delivered,Website,2.0,No
+ORD-10322,2025-02-15,CUST-1039,New,PRD-014,Study Table,Furniture,1,3999,10,399.9,40,3639.1,2700,919.1,Mumbai,Maharashtra,UPI,Shipped,Marketplace,,No
+ORD-10323,2026-11-03,CUST-1020,Premium,PRD-007,Backpack,Fashion,1,1299,10,129.9,99,1268.1,700,518.6,Hyderabad,Telangana,Debit Card,Delivered,Website,5.0,No
+ORD-10324,2026-05-30,CUST-1018,Returning,PRD-011,Face Wash,Beauty,1,249,15,37.35,0,211.65,110,101.65,Mumbai,Maharashtra,Debit Card,Shipped,Mobile App,,No
+ORD-10325,2025-12-02,CUST-1063,Returning,PRD-002,Bluetooth Headphones,Electronics,1,1499,5,74.95,0,1424.05,850,574.05,Kochi,Kerala,Debit Card,Delivered,Marketplace,5.0,No
+ORD-10326,2026-05-21,CUST-1105,New,PRD-013,Office Chair,Furniture,2,5499,15,1649.7,0,9348.3,3700,1948.3,Hyderabad,Telangana,Credit Card,Delivered,Marketplace,1.0,No
+ORD-10327,2025-12-21,CUST-1079,New,PRD-011,Face Wash,Beauty,3,249,5,37.35,0,709.65,110,379.65,Kozhikode,Kerala,Credit Card,Returned,Marketplace,7.0,Yes
+ORD-10328,2025-09-01,CUST-1012,New,PRD-007,Backpack,Fashion,4,1299,0,0.0,99,5295.0,700,2445.5,Ahmedabad,Gujarat,Net Banking,Delivered,Mobile App,2.0,No
+ORD-10329,2026-01-17,CUST-1020,Premium,PRD-008,Water Bottle,Home & Kitchen,1,349,0,0.0,80,429.0,130,259.0,Kozhikode,Kerala,Net Banking,Delivered,Website,7.0,No
+ORD-10330,2026-03-22,CUST-1084,Returning,PRD-011,Face Wash,Beauty,1,249,5,12.45,40,276.55,110,146.55,Bengaluru,Karnataka,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10331,2025-08-28,CUST-1043,Returning,PRD-002,Bluetooth Headphones,Electronics,1,1499,15,224.85,0,1274.15,850,424.15,Hyderabad,Telangana,Cash on Delivery,Delivered,Mobile App,2.0,No
+ORD-10332,2026-02-21,CUST-1068,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,0,0.0,60,1559.0,850,679.0,Kochi,Kerala,UPI,Delivered,Website,8.0,No
+ORD-10333,2025-11-08,CUST-1024,Premium,PRD-014,Study Table,Furniture,2,3999,0,0.0,0,7998.0,2700,2598.0,Kozhikode,Kerala,Credit Card,Delivered,Mobile App,3.0,No
+ORD-10334,2026-02-10,CUST-1116,Premium,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,5,289.9,0,5508.1,1900,1708.1,Mumbai,Maharashtra,Net Banking,Delivered,Website,7.0,No
+ORD-10335,2025-04-07,CUST-1057,New,PRD-008,Water Bottle,Home & Kitchen,3,349,0,0.0,0,1047.0,130,657.0,Delhi,Delhi,Credit Card,Delivered,Mobile App,1.0,No
+ORD-10336,2026-01-17,CUST-1067,New,PRD-011,Face Wash,Beauty,4,249,0,0.0,80,1076.0,110,596.0,Lucknow,Uttar Pradesh,UPI,Cancelled,Website,,No
+ORD-10337,2025-07-22,CUST-1011,Returning,PRD-015,Notebook Pack,Stationery,1,199,0,0.0,0,199.0,80,119.0,Lucknow,Uttar Pradesh,UPI,Delivered,Website,2.0,No
+ORD-10338,2026-08-11,CUST-1045,Returning,PRD-007,Backpack,Fashion,1,1299,0,0.0,60,1359.0,700,629.0,Kozhikode,Kerala,Credit Card,Returned,Website,7.0,Yes
+ORD-10339,2025-10-09,CUST-1063,Premium,PRD-005,Cotton T-Shirt,Fashion,3,499,0,0.0,80,1577.0,220,877.0,Ahmedabad,Gujarat,Debit Card,Cancelled,Mobile App,,No
+ORD-10340,2026-02-26,CUST-1036,Returning,PRD-015,Notebook Pack,Stationery,1,199,0,0.0,40,239.0,80,139.0,Kochi,Kerala,Credit Card,Shipped,Marketplace,,No
+ORD-10341,2026-06-23,CUST-1092,Returning,PRD-004,USB-C Charger,Electronics,5,799,15,599.25,0,3395.75,420,1295.75,Lucknow,Uttar Pradesh,Net Banking,Shipped,Mobile App,,No
+ORD-10342,2025-12-19,CUST-1082,Premium,PRD-015,Notebook Pack,Stationery,1,199,10,19.9,40,219.1,80,119.1,Jaipur,Rajasthan,Credit Card,Delivered,Website,1.0,No
+ORD-10343,2025-10-15,CUST-1064,Premium,PRD-001,Wireless Mouse,Electronics,1,599,15,89.85,0,509.15,320,189.15,Ahmedabad,Gujarat,Credit Card,Delivered,Mobile App,2.0,No
+ORD-10344,2026-07-01,CUST-1091,New,PRD-014,Study Table,Furniture,1,3999,0,0.0,80,4079.0,2700,1339.0,Kozhikode,Kerala,Credit Card,Shipped,Website,,No
+ORD-10345,2026-08-30,CUST-1146,Premium,PRD-006,Running Shoes,Fashion,2,2199,15,659.7,0,3738.3,1250,1238.3,Kozhikode,Kerala,Credit Card,Returned,Marketplace,6.0,Yes
+ORD-10346,2025-07-12,CUST-1015,New,PRD-014,Study Table,Furniture,1,3999,0,0.0,60,4059.0,2700,1329.0,Ahmedabad,Gujarat,Net Banking,Delivered,Website,2.0,No
+ORD-10347,2025-01-21,CUST-1046,Returning,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,15,434.85,0,2464.15,1900,564.15,Ahmedabad,Gujarat,UPI,Delivered,Website,6.0,No
+ORD-10348,2025-06-01,CUST-1096,Premium,PRD-010,Bedsheet Set,Home & Kitchen,3,999,0,0.0,80,3077.0,510,1507.0,Kozhikode,Kerala,Cash on Delivery,Delivered,Marketplace,2.0,No
+ORD-10349,2025-04-14,CUST-1125,,PRD-006,Running Shoes,Fashion,1,2199,0,0.0,99,2298.0,1250,998.5,Chennai,Tamil Nadu,Debit Card,Shipped,Website,,No
+ORD-10350,2026-07-30,CUST-1045,Returning,PRD-012,Sunscreen SPF 50,Beauty,2,499,0,0.0,99,1097.0,260,527.5,Jaipur,Rajasthan,Debit Card,Cancelled,Marketplace,,No
+ORD-10351,2025-10-29,CUST-1146,New,PRD-003,Smart Watch,Electronics,2,2499,20,999.6,80,4078.4,1550,938.4,Bengaluru,Karnataka,Credit Card,Shipped,Marketplace,,No
+ORD-10352,2025-11-22,CUST-1037,Returning,PRD-015,Notebook Pack,Stationery,1,199,15,29.85,0,169.15,80,89.15,Jaipur,Rajasthan,UPI,Shipped,Website,,No
+ORD-10353,2025-12-22,CUST-1115,New,PRD-006,Running Shoes,Fashion,2,2199,0,0.0,99,4497.0,1250,1947.5,Bengaluru,Karnataka,Debit Card,Returned,Website,6.0,Yes
+ORD-10354,2025-09-13,CUST-1099,Returning,PRD-012,Sunscreen SPF 50,Beauty,1,499,0,0.0,99,598.0,260,288.5,Delhi,Delhi,Cash on Delivery,Delivered,Website,1.0,No
+ORD-10355,2026-02-28,CUST-1148,Premium,PRD-008,Water Bottle,Home & Kitchen,1,349,10,34.9,0,314.1,130,184.1,Pune,Maharashtra,Credit Card,Shipped,Website,,No
+ORD-10356,2026-04-08,CUST-1088,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,5,74.95,40,1464.05,850,594.05,Mumbai,Maharashtra,Cash on Delivery,Delivered,Website,2.0,No
+ORD-10357,2025-03-18,CUST-1111,Premium,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,15,434.85,60,2524.15,1900,594.15,Delhi,Delhi,Credit Card,Returned,Marketplace,1.0,Yes
+ORD-10358,2026-03-21,CUST-1142,Premium,PRD-003,Smart Watch,Electronics,1,2499,0,0.0,0,2499.0,1550,949.0,Mumbai,Maharashtra,Net Banking,Shipped,Mobile App,,No
+ORD-10359,2026-11-08,CUST-1141,Returning,PRD-005,Cotton T-Shirt,Fashion,1,499,0,0.0,60,559.0,220,309.0,Chennai,Tamil Nadu,Credit Card,Cancelled,Website,,No
+ORD-10360,2026-01-05,CUST-1123,New,PRD-001,Wireless Mouse,Electronics,1,599,20,119.8,99,578.2,320,208.7,Pune,Maharashtra,UPI,Cancelled,Website,,No
+ORD-10361,2025-07-31,CUST-1102,Returning,PRD-003,Smart Watch,Electronics,1,2499,0,0.0,60,2559.0,1550,979.0,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,Marketplace,5.0,No
+ORD-10362,2025-09-29,CUST-1095,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,0,0.0,40,1539.0,850,669.0,Lucknow,Uttar Pradesh,Cash on Delivery,Shipped,Website,,No
+ORD-10363,2025-09-27,CUST-1025,New,PRD-008,Water Bottle,Home & Kitchen,1,349,5,17.45,80,411.55,130,241.55,Ahmedabad,Gujarat,Debit Card,Delivered,Marketplace,3.0,No
+ORD-10364,2026-02-28,CUST-1108,Premium,PRD-013,Office Chair,Furniture,1,5499,0,0.0,60,5559.0,3700,1829.0,Jaipur,Rajasthan,Cash on Delivery,Cancelled,Marketplace,,No
+ORD-10365,2025-08-30,CUST-1147,Premium,PRD-008,Water Bottle,Home & Kitchen,1,349,20,69.8,0,279.2,130,149.2,Chennai,Tamil Nadu,Net Banking,Cancelled,Marketplace,,No
+ORD-10366,2026-09-28,CUST-1050,New,PRD-003,Smart Watch,Electronics,4,2499,10,999.6,0,8996.4,1550,2796.4,Delhi,Delhi,UPI,Delivered,Mobile App,4.0,No
+ORD-10367,2025-03-22,CUST-1067,Returning,PRD-011,Face Wash,Beauty,1,249,20,49.8,0,199.2,110,89.2,Pune,Maharashtra,UPI,Cancelled,Website,,No
+ORD-10368,2026-02-02,CUST-1004,Premium,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,5,289.9,80,5588.1,1900,1748.1,Pune,Maharashtra,Net Banking,Shipped,Marketplace,,No
+ORD-10369,2026-06-20,CUST-1150,New,PRD-013,Office Chair,Furniture,1,5499,0,0.0,0,5499.0,3700,1799.0,Pune,Maharashtra,UPI,Cancelled,Marketplace,,No
+ORD-10370,2025-04-14,CUST-1125,Premium,PRD-013,Office Chair,Furniture,3,5499,5,824.85,60,15732.15,3700,4602.15,Chennai,Tamil Nadu,Net Banking,Delivered,Mobile App,7.0,No
+ORD-10371,2025-02-08,CUST-1010,Returning,PRD-003,Smart Watch,Electronics,1,2499,15,374.85,80,2204.15,1550,614.15,Chennai,Tamil Nadu,Debit Card,Returned,Marketplace,7.0,Yes
+ORD-10372,2025-09-01,CUST-1078,Returning,PRD-001,Wireless Mouse,Electronics,1,599,5,29.95,40,609.05,320,269.05,Kozhikode,Kerala,Debit Card,Delivered,Mobile App,6.0,No
+ORD-10373,2025-04-11,CUST-1107,Premium,PRD-014,Study Table,Furniture,1,3999,20,799.8,60,3259.2,2700,529.2,Hyderabad,Telangana,UPI,Delivered,Website,5.0,No
+ORD-10374,2026-03-29,CUST-1041,New,PRD-004,USB-C Charger,Electronics,2,799,15,239.7,40,1398.3,420,538.3,Pune,Maharashtra,Debit Card,Delivered,Marketplace,9.0,No
+ORD-10375,2026-06-03,CUST-1050,New,PRD-007,Backpack,Fashion,2,1299,15,389.7,80,2288.3,700,848.3,Bengaluru,Karnataka,UPI,Delivered,Website,3.0,No
+ORD-10376,2025-02-03,CUST-1119,Premium,PRD-008,Water Bottle,Home & Kitchen,3,349,20,209.4,0,837.6,130,447.6,Mumbai,Maharashtra,Cash on Delivery,Delivered,Marketplace,6.0,No
+ORD-10377,2025-05-07,CUST-1046,Returning,PRD-011,Face Wash,Beauty,1,249,10,24.9,80,304.1,110,154.1,Mumbai,Maharashtra,Net Banking,Shipped,Marketplace,,No
+ORD-10378,2025-12-25,CUST-1073,New,PRD-006,Running Shoes,Fashion,3,2199,5,329.85,99,6366.15,1250,2566.65,Bengaluru,Karnataka,Cash on Delivery,Returned,Website,2.0,Yes
+ORD-10379,2025-06-16,CUST-1053,Returning,PRD-014,Study Table,Furniture,2,3999,0,0.0,0,7998.0,2700,2598.0,Jaipur,Rajasthan,Cash on Delivery,Returned,Marketplace,4.0,Yes
+ORD-10380,2025-01-21,CUST-1058,Returning,PRD-014,Study Table,Furniture,1,3999,0,0.0,99,4098.0,2700,1348.5,Lucknow,Uttar Pradesh,Net Banking,Delivered,Mobile App,1.0,No
+ORD-10381,2026-10-21,CUST-1120,Returning,PRD-005,Cotton T-Shirt,Fashion,3,499,5,74.85,60,1482.15,220,792.15,Pune,Maharashtra,Net Banking,Delivered,Marketplace,4.0,No
+ORD-10382,2026-02-11,CUST-1073,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,20,199.8,40,839.2,510,309.2,Delhi,Delhi,UPI,Cancelled,Mobile App,,No
+ORD-10383,2025-03-07,CUST-1049,New,PRD-006,Running Shoes,Fashion,2,2199,5,219.9,40,4218.1,1250,1698.1,Chennai,Tamil Nadu,Net Banking,Returned,Website,5.0,Yes
+ORD-10384,2025-02-28,CUST-1128,Returning,PRD-013,Office Chair,Furniture,1,5499,5,274.95,99,5323.05,3700,1573.55,Jaipur,Rajasthan,Debit Card,Delivered,Mobile App,1.0,No
+ORD-10385,2026-02-19,CUST-1057,Premium,PRD-007,Backpack,Fashion,1,1299,20,259.8,80,1119.2,700,379.2,Kozhikode,Kerala,Net Banking,Delivered,Marketplace,6.0,No
+ORD-10386,2026-05-03,CUST-1047,Returning,PRD-015,Notebook Pack,Stationery,1,199,5,9.95,0,189.05,80,109.05,Lucknow,Uttar Pradesh,UPI,Returned,Mobile App,9.0,Yes
+ORD-10387,2025-05-12,CUST-1023,New,PRD-012,Sunscreen SPF 50,Beauty,2,499,15,149.7,0,848.3,260,328.3,Chennai,Tamil Nadu,Debit Card,Returned,Website,6.0,Yes
+ORD-10388,2025-11-11,CUST-1031,Returning,PRD-007,Backpack,Fashion,1,1299,15,194.85,40,1144.15,700,424.15,Kolkata,West Bengal,UPI,Shipped,Marketplace,,No
+ORD-10389,2026-08-21,CUST-1136,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,0,0.0,80,1079.0,510,529.0,Jaipur,Rajasthan,Cash on Delivery,Delivered,Website,7.0,No
+ORD-10390,2025-06-04,CUST-1047,New,PRD-003,Smart Watch,Electronics,1,2499,15,374.85,60,2184.15,1550,604.15,Hyderabad,Telangana,Cash on Delivery,Delivered,Mobile App,6.0,No
+ORD-10391,2026-10-09,CUST-1044,Premium,PRD-003,Smart Watch,Electronics,2,2499,0,0.0,60,5058.0,1550,1928.0,Kolkata,West Bengal,Credit Card,Delivered,Mobile App,4.0,No
+ORD-10392,2025-04-01,CUST-1123,Returning,PRD-003,Smart Watch,Electronics,1,2499,10,249.9,60,2309.1,1550,729.1,Jaipur,Rajasthan,UPI,Shipped,Website,,No
+ORD-10393,2026-07-01,CUST-1049,New,PRD-004,USB-C Charger,Electronics,1,799,0,0.0,40,839.0,420,399.0,Kozhikode,Kerala,UPI,Cancelled,Marketplace,,No
+ORD-10394,2025-09-12,CUST-1129,Premium,PRD-004,USB-C Charger,Electronics,3,799,5,119.85,0,2277.15,420,1017.15,Kozhikode,Kerala,Debit Card,Delivered,Website,7.0,No
+ORD-10395,2025-03-08,CUST-1135,Returning,PRD-014,Study Table,Furniture,1,3999,5,199.95,60,3859.05,2700,1129.05,Mumbai,Maharashtra,Cash on Delivery,Returned,Marketplace,9.0,Yes
+ORD-10396,2025-05-18,CUST-1005,New,PRD-006,Running Shoes,Fashion,1,2199,0,0.0,0,2199.0,1250,949.0,Ahmedabad,Gujarat,Credit Card,Shipped,Marketplace,,No
+ORD-10397,2025-05-15,CUST-1010,Returning,PRD-004,USB-C Charger,Electronics,1,799,15,119.85,0,679.15,420,259.15,Kozhikode,Kerala,Debit Card,Delivered,Marketplace,6.0,No
+ORD-10398,2026-10-01,CUST-1013,Premium,PRD-001,Wireless Mouse,Electronics,5,599,20,599.0,0,2396.0,320,796.0,Jaipur,Rajasthan,UPI,Returned,Mobile App,1.0,Yes
+ORD-10399,2026-03-31,CUST-1003,Returning,PRD-007,Backpack,Fashion,1,1299,10,129.9,99,1268.1,700,518.6,Delhi,Delhi,Cash on Delivery,Delivered,Marketplace,4.0,No
+ORD-10400,2025-04-14,CUST-1027,Premium,PRD-011,Face Wash,Beauty,1,249,15,37.35,99,310.65,110,151.15,Kochi,Kerala,Net Banking,Delivered,Website,7.0,No
+ORD-10401,2025-10-17,CUST-1052,Returning,PRD-002,Bluetooth Headphones,Electronics,1,1499,15,224.85,0,1274.15,850,424.15,Delhi,Delhi,Cash on Delivery,Delivered,Mobile App,9.0,No
+ORD-10402,2025-06-14,CUST-1085,New,PRD-001,Wireless Mouse,Electronics,1,599,0,0.0,99,698.0,320,328.5,Kochi,Kerala,UPI,Shipped,Website,,No
+ORD-10403,2025-04-02,CUST-1131,New,PRD-015,Notebook Pack,Stationery,3,199,20,119.4,60,537.6,80,267.6,Delhi,Delhi,UPI,Delivered,Mobile App,2.0,No
+ORD-10404,2026-10-22,CUST-1013,New,PRD-004,USB-C Charger,Electronics,5,799,5,199.75,40,3835.25,420,1715.25,Ahmedabad,Gujarat,Credit Card,Shipped,Website,,No
+ORD-10405,2025-10-25,CUST-1003,New,PRD-006,Running Shoes,Fashion,1,2199,20,439.8,0,1759.2,1250,509.2,Lucknow,Uttar Pradesh,Credit Card,Delivered,Mobile App,1.0,No
+ORD-10406,2026-01-02,CUST-1088,New,PRD-015,Notebook Pack,Stationery,4,199,5,39.8,99,855.2,80,485.7,Ahmedabad,Gujarat,UPI,Delivered,Mobile App,6.0,No
+ORD-10407,2026-02-14,CUST-1043,New,PRD-008,Water Bottle,Home & Kitchen,3,349,20,209.4,60,897.6,130,477.6,Chennai,Tamil Nadu,Credit Card,Shipped,Marketplace,,No
+ORD-10408,2025-03-02,CUST-1113,New,PRD-014,Study Table,Furniture,1,3999,15,599.85,60,3459.15,2700,729.15,Bengaluru,Karnataka,Net Banking,Cancelled,Mobile App,,No
+ORD-10409,2026-01-03,CUST-1125,New,PRD-010,Bedsheet Set,Home & Kitchen,3,999,20,599.4,0,2397.6,510,867.6,Mumbai,Maharashtra,Cash on Delivery,Shipped,Mobile App,,No
+ORD-10410,2025-02-17,CUST-1148,Premium,PRD-002,Bluetooth Headphones,Electronics,2,1499,0,0.0,99,3097.0,850,1347.5,Chennai,Tamil Nadu,Net Banking,Returned,Website,9.0,Yes
+ORD-10411,2025-12-13,CUST-1064,Returning,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,15,869.7,0,4928.3,1900,1128.3,Kochi,Kerala,Debit Card,Shipped,Marketplace,,No
+ORD-10412,2026-10-19,CUST-1041,Premium,PRD-007,Backpack,Fashion,3,1299,15,584.55,80,3392.45,700,1252.45,Bengaluru,Karnataka,Cash on Delivery,Delivered,Mobile App,1.0,No
+ORD-10413,2025-06-19,CUST-1058,Premium,PRD-002,Bluetooth Headphones,Electronics,1,1499,5,74.95,40,1464.05,850,594.05,Ahmedabad,Gujarat,Cash on Delivery,Delivered,Mobile App,9.0,No
+ORD-10414,2025-08-29,CUST-1115,Returning,PRD-002,Bluetooth Headphones,Electronics,1,1499,15,224.85,60,1334.15,850,454.15,Ahmedabad,Gujarat,UPI,Delivered,Mobile App,8.0,No
+ORD-10415,2026-11-01,CUST-1001,New,PRD-001,Wireless Mouse,Electronics,1,599,0,0.0,80,679.0,320,319.0,Delhi,Delhi,Net Banking,Cancelled,Marketplace,,No
+ORD-10416,2026-10-15,CUST-1088,Returning,PRD-005,Cotton T-Shirt,Fashion,2,499,20,199.6,99,897.4,220,407.9, Kochi ,Kerala,UPI,Shipped,Website,,No
+ORD-10417,2026-04-11,CUST-1116,New,PRD-006,Running Shoes,Fashion,2,2199,15,659.7,60,3798.3,1250,1268.3,Kochi,Kerala,UPI,Returned,Marketplace,6.0,Yes
+ORD-10418,2025-08-16,CUST-1134,Returning,PRD-001,Wireless Mouse,Electronics,1,599,20,119.8,40,519.2,320,179.2,Kolkata,West Bengal,UPI,Cancelled,Website,,No
+ORD-10419,2025-06-18,CUST-1028,Returning,PRD-008,Water Bottle,Home & Kitchen,3,349,20,209.4,99,936.6,130,497.1,Bengaluru,Karnataka,Net Banking,Shipped,Website,,No
+ORD-10420,2025-07-12,CUST-1107,New,PRD-002,Bluetooth Headphones,Electronics,1,1499,0,0.0,99,1598.0,850,698.5,Pune,Maharashtra,Net Banking,Delivered,Website,2.0,No
+ORD-10421,2026-04-07,CUST-1002,Premium,PRD-008,Water Bottle,Home & Kitchen,2,349,15,104.7,0,593.3,130,333.3,Lucknow,Uttar Pradesh,UPI,Shipped,Marketplace,,No
+ORD-10422,2026-03-20,CUST-1033,New,PRD-014,Study Table,Furniture,1,3999,15,599.85,0,3399.15,2700,699.15,Jaipur,Rajasthan,Cash on Delivery,Returned,Marketplace,3.0,Yes
+ORD-10423,2026-09-07,CUST-1064,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,10,99.9,60,959.1,510,419.1,Kolkata,West Bengal,Cash on Delivery,Cancelled,Mobile App,,No
+ORD-10424,2025-10-29,CUST-1077,Premium,PRD-008,Water Bottle,Home & Kitchen,1,349,15,52.35,99,395.65,130,216.15,Bengaluru,Karnataka,Net Banking,Returned,Mobile App,9.0,Yes
+ORD-10425,2026-07-21,CUST-1034,Premium,PRD-011,Face Wash,Beauty,1,249,15,37.35,99,310.65,110,151.15,Hyderabad,Telangana,Credit Card,Delivered,Marketplace,6.0,No
+ORD-10426,2026-07-10,CUST-1123,Premium,PRD-012,Sunscreen SPF 50,Beauty,1,499,0,0.0,40,539.0,260,259.0,Lucknow,Uttar Pradesh,Net Banking,Cancelled,Marketplace,,No
+ORD-10427,2026-03-04,CUST-1004,Premium,PRD-011,Face Wash,Beauty,3,249,15,112.05,40,674.95,110,324.95,Kozhikode,Kerala,UPI,Shipped,Website,,No
+ORD-10428,2026-01-26,CUST-1065,New,PRD-003,Smart Watch,Electronics,2,2499,0,0.0,40,5038.0,1550,1918.0,Mumbai,Maharashtra,UPI,Delivered,Marketplace,5.0,No
+ORD-10429,2025-10-30,CUST-1144,New,PRD-004,USB-C Charger,Electronics,1,799,10,79.9,0,719.1,420,299.1,Kochi,Kerala,Net Banking,Cancelled,Mobile App,,No
+ORD-10430,2025-09-01,CUST-1100,Returning,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,20,579.8,0,2319.2,1900,419.2,Kozhikode,Kerala,Debit Card,Shipped,Marketplace,,No
+ORD-10431,2025-02-25,CUST-1140,Premium,PRD-001,Wireless Mouse,Electronics,1,599,15,89.85,60,569.15,320,219.15,Kozhikode,Kerala,Net Banking,Delivered,Website,6.0,No
+ORD-10432,2025-07-18,CUST-1132,New,PRD-005,Cotton T-Shirt,Fashion,1,499,20,99.8,0,399.2,220,179.2,Ahmedabad,Gujarat,Cash on Delivery,Delivered,Website,3.0,No
+ORD-10433,2026-03-15,CUST-1085,Returning,PRD-005,Cotton T-Shirt,Fashion,1,499,0,0.0,80,579.0,220,319.0,Kochi,Kerala,Credit Card,Delivered,Website,1.0,No
+ORD-10434,2025-06-07,CUST-1126,Premium,PRD-015,Notebook Pack,Stationery,2,199,20,79.6,80,398.4,80,198.4,Kolkata,West Bengal,Net Banking,Returned,Mobile App,5.0,Yes
+ORD-10435,2025-03-16,CUST-1018,Premium,PRD-013,Office Chair,Furniture,1,5499,0,0.0,0,5499.0,3700,1799.0,Kozhikode,Kerala,Credit Card,Cancelled,Mobile App,,No
+ORD-10436,2026-07-11,CUST-1085,Returning,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,0,0.0,0,2899.0,1900,999.0,Pune,Maharashtra,Debit Card,Returned,Website,6.0,Yes
+ORD-10437,2026-09-26,CUST-1115,New,PRD-009,Mixer Grinder,Home & Kitchen,5,2899,20,2899.0,0,11596.0,1900,2096.0,Ahmedabad,Gujarat,Net Banking,Delivered,Marketplace,6.0,No
+ORD-10438,2025-09-07,CUST-1066,Premium,PRD-001,Wireless Mouse,Electronics,3,599,10,179.7,0,1617.3,320,657.3,Lucknow,Uttar Pradesh,Debit Card,Shipped,Website,,No
+ORD-10439,2026-06-14,CUST-1012,Returning,PRD-014,Study Table,Furniture,1,3999,15,599.85,60,3459.15,2700,729.15,Kolkata,West Bengal,Credit Card,Shipped,Mobile App,,No
+ORD-10440,2026-06-11,CUST-1054,Premium,PRD-002,Bluetooth Headphones,Electronics,1,1499,15,224.85,80,1354.15,850,464.15,Delhi,Delhi,Credit Card,Delivered,Marketplace,2.0,No
+ORD-10441,2026-03-11,CUST-1019,Premium,PRD-014,Study Table,Furniture,1,3999,20,799.8,99,3298.2,2700,548.7,Delhi,Delhi,Credit Card,Shipped,Website,,No
+ORD-10442,2026-04-16,CUST-1143,New,PRD-012,Sunscreen SPF 50,Beauty,1,499,0,0.0,0,499.0,260,239.0,Kolkata,West Bengal,Net Banking,Delivered,Website,5.0,No
+ORD-10443,2025-09-22,CUST-1100,Premium,PRD-007,Backpack,Fashion,1,1299,10,129.9,60,1229.1,700,499.1,Pune,Maharashtra,UPI,Delivered,Marketplace,1.0,No
+ORD-10444,2025-01-07,CUST-1092,Premium,PRD-011,Face Wash,Beauty,2,249,20,99.6,80,478.4,110,218.4,Kozhikode,Kerala,UPI,Delivered,Mobile App,2.0,No
+ORD-10445,2025-11-05,CUST-1008,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,10,99.9,60,959.1,510,419.1,Delhi,Delhi,Credit Card,Shipped,Marketplace,,No
+ORD-10446,2025-08-14,CUST-1077,,PRD-003,Smart Watch,Electronics,1,2499,15,374.85,40,2164.15,1550,594.15,Kozhikode,Kerala,Debit Card,Returned,Website,3.0,Yes
+ORD-10447,2026-07-21,CUST-1101,Premium,PRD-014,Study Table,Furniture,1,3999,0,0.0,0,3999.0,2700,1299.0,Kochi,Kerala,Net Banking,Cancelled,Website,,No
+ORD-10448,2025-11-09,CUST-1132,New,PRD-004,USB-C Charger,Electronics,2,799,20,319.6,40,1318.4,420,458.4,Kozhikode,Kerala,Credit Card,Delivered,Website,7.0,No
+ORD-10449,2025-08-15,CUST-1014,Premium,PRD-010,Bedsheet Set,Home & Kitchen,1,999,0,0.0,99,1098.0,510,538.5,Chennai,Tamil Nadu,Cash on Delivery,Cancelled,Marketplace,,No
+ORD-10450,2026-07-17,CUST-1085,Returning,PRD-002,Bluetooth Headphones,Electronics,2,1499,5,149.9,0,2848.1,850,1148.1,Chennai,Tamil Nadu,Credit Card,Delivered,Marketplace,8.0,No
+ORD-10451,2026-11-03,CUST-1116,Returning,PRD-004,USB-C Charger,Electronics,1,799,0,0.0,0,799.0,420,379.0,Delhi,Delhi,Net Banking,Delivered,Marketplace,8.0,No
+ORD-10452,2025-11-10,CUST-1044,New,PRD-012,Sunscreen SPF 50,Beauty,1,499,15,74.85,40,464.15,260,184.15,Jaipur,Rajasthan,Debit Card,Delivered,Website,7.0,No
+ORD-10453,2025-08-15,CUST-1123,Returning,PRD-012,Sunscreen SPF 50,Beauty,2,499,5,49.9,40,988.1,260,448.1,Kozhikode,Kerala,Cash on Delivery,Delivered,Mobile App,6.0,No
+ORD-10454,2025-11-09,CUST-1036,Premium,PRD-008,Water Bottle,Home & Kitchen,1,349,20,69.8,80,359.2,130,189.2,Kochi,Kerala,Credit Card,Delivered,Mobile App,5.0,No
+ORD-10455,2026-10-04,CUST-1149,Premium,PRD-002,Bluetooth Headphones,Electronics,1,1499,0,0.0,80,1579.0,850,689.0,Kozhikode,Kerala,Cash on Delivery,Returned,Marketplace,1.0,Yes
+ORD-10456,2025-08-06,CUST-1039,Returning,PRD-015,Notebook Pack,Stationery,2,199,15,59.7,80,418.3,80,218.3,Mumbai,Maharashtra,Cash on Delivery,Shipped,Website,,No
+ORD-10457,2026-08-27,CUST-1094,Premium,PRD-012,Sunscreen SPF 50,Beauty,1,499,15,74.85,80,504.15,260,204.15,Chennai,Tamil Nadu,UPI,Delivered,Marketplace,7.0,No
+ORD-10458,2025-09-02,CUST-1041,New,PRD-014,Study Table,Furniture,2,3999,15,1199.7,0,6798.3,2700,1398.3,Jaipur,Rajasthan,Net Banking,Shipped,Marketplace,,No
+ORD-10459,2026-11-07,CUST-1125,New,PRD-014,Study Table,Furniture,2,3999,10,799.8,40,7238.2,2700,1818.2,Bengaluru,Karnataka,UPI,Delivered,Mobile App,4.0,No
+ORD-10460,2026-01-14,CUST-1121,Returning,PRD-004,USB-C Charger,Electronics,2,799,15,239.7,40,1398.3,420,538.3,Mumbai,Maharashtra,UPI,Shipped,Website,,No
+ORD-10461,2026-10-27,CUST-1149,Premium,PRD-006,Running Shoes,Fashion,2,2199,15,659.7,99,3837.3,1250,1287.8,Delhi,Delhi,Net Banking,Delivered,Website,5.0,No
+ORD-10462,2026-01-21,CUST-1065,Returning,PRD-011,Face Wash,Beauty,1,249,20,49.8,0,199.2,110,89.2,Pune,Maharashtra,Credit Card,Cancelled,Marketplace,,No
+ORD-10463,2026-02-20,CUST-1036,Returning,PRD-006,Running Shoes,Fashion,1,2199,10,219.9,80,2059.1,1250,769.1,Kolkata,West Bengal,Credit Card,Delivered,Website,9.0,No
+ORD-10464,2025-03-20,CUST-1031,Premium,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,0,0.0,0,2899.0,1900,999.0,Lucknow,Uttar Pradesh,Credit Card,Delivered,Mobile App,6.0,No
+ORD-10465,2025-12-05,CUST-1106,New,PRD-012,Sunscreen SPF 50,Beauty,1,499,10,49.9,60,509.1,260,219.1,Delhi,Delhi,Credit Card,Delivered,Website,3.0,No
+ORD-10466,2025-05-11,CUST-1015,New,PRD-010,Bedsheet Set,Home & Kitchen,1,999,20,199.8,80,879.2,510,329.2,Jaipur,Rajasthan,Debit Card,Delivered,Website,3.0,No
+ORD-10467,2026-06-14,CUST-1022,New,PRD-007,Backpack,Fashion,4,1299,20,1039.2,0,4156.8,700,1356.8,Jaipur,Rajasthan,Cash on Delivery,Returned,Marketplace,5.0,Yes
+ORD-10468,2026-04-28,CUST-1131,Returning,PRD-014,Study Table,Furniture,1,3999,10,399.9,80,3679.1,2700,939.1,Ahmedabad,Gujarat,Credit Card,Delivered,Marketplace,3.0,No
+ORD-10469,2025-12-17,CUST-1099,New,PRD-015,Notebook Pack,Stationery,2,199,0,0.0,0,398.0,80,238.0,Ahmedabad,Gujarat,UPI,Shipped,Website,,No
+ORD-10470,2025-07-27,CUST-1122,Premium,PRD-009,Mixer Grinder,Home & Kitchen,2,2899,0,0.0,80,5878.0,1900,2038.0,Kochi,Kerala,Net Banking,Delivered,Website,3.0,No
+ORD-10471,2026-06-29,CUST-1139,New,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,20,579.8,0,2319.2,1900,419.2,Delhi,Delhi,Cash on Delivery,Cancelled,Marketplace,,No
+ORD-10472,2026-03-07,CUST-1098,Returning,PRD-006,Running Shoes,Fashion,2,2199,10,439.8,0,3958.2,1250,1458.2,Mumbai,Maharashtra,Net Banking,Shipped,Marketplace,,No
+ORD-10473,2026-08-13,CUST-1140,Returning,PRD-002,Bluetooth Headphones,Electronics,1,1499,10,149.9,0,1349.1,850,499.1,Pune,Maharashtra,Debit Card,Delivered,Website,5.0,No
+ORD-10474,2025-01-06,CUST-1002,Returning,PRD-012,Sunscreen SPF 50,Beauty,2,499,15,149.7,80,928.3,260,368.3,Kozhikode,Kerala,Credit Card,Delivered,Marketplace,9.0,No
+ORD-10475,2025-11-20,CUST-1065,Returning,PRD-007,Backpack,Fashion,1,1299,10,129.9,99,1268.1,700,518.6,Kolkata,West Bengal,Net Banking,Cancelled,Mobile App,,No
+ORD-10476,2026-08-02,CUST-1142,Premium,PRD-006,Running Shoes,Fashion,1,2199,20,439.8,60,1819.2,1250,539.2,Jaipur,Rajasthan,Cash on Delivery,Delivered,Website,7.0,No
+ORD-10477,2026-01-15,CUST-1036,Premium,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,5,144.95,80,2834.05,1900,894.05,Kochi,Kerala,UPI,Delivered,Marketplace,7.0,No
+ORD-10478,2025-08-24,CUST-1103,Returning,PRD-008,Water Bottle,Home & Kitchen,4,349,0,0.0,0,1396.0,130,876.0,Kozhikode,Kerala,Net Banking,Cancelled,Marketplace,,No
+ORD-10479,2025-02-23,CUST-1112,New,PRD-003,Smart Watch,Electronics,4,2499,0,0.0,0,9996.0,1550,3796.0, Pune ,Maharashtra,UPI,Delivered,Mobile App,8.0,No
+ORD-10480,2025-08-16,CUST-1134,Returning,PRD-006,Running Shoes,Fashion,2,2199,20,879.6,60,3578.4,1250,1048.4,Delhi,Delhi,Net Banking,Shipped,Website,,No
+ORD-10481,2025-06-29,CUST-1074,New,PRD-011,Face Wash,Beauty,1,249,0,0.0,99,348.0,110,188.5,Ahmedabad,Gujarat,UPI,Cancelled,Marketplace,,No
+ORD-10482,2026-06-07,CUST-1062,Premium,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,0,0.0,99,2998.0,1900,1048.5,Kozhikode,Kerala,UPI,Delivered,Website,6.0,No
+ORD-10483,2025-03-30,CUST-1052,Premium,PRD-005,Cotton T-Shirt,Fashion,1,499,10,49.9,60,509.1,220,259.1,Pune,Maharashtra,UPI,Cancelled,Marketplace,,No
+ORD-10484,2025-03-12,CUST-1090,Returning,PRD-015,Notebook Pack,Stationery,1,199,20,39.8,80,239.2,80,119.2,Delhi,Delhi,Debit Card,Cancelled,Website,,No
+ORD-10485,2026-09-13,CUST-1105,Premium,PRD-004,USB-C Charger,Electronics,4,799,15,479.4,0,2716.6,420,1036.6,Ahmedabad,Gujarat,UPI,Delivered,Marketplace,3.0,No
+ORD-10486,2025-03-16,CUST-1148,Returning,PRD-009,Mixer Grinder,Home & Kitchen,1,2899,0,0.0,80,2979.0,1900,1039.0,Chennai,Tamil Nadu,Cash on Delivery,Delivered,Mobile App,9.0,No
+ORD-10487,2026-07-31,CUST-1008,Returning,PRD-008,Water Bottle,Home & Kitchen,2,349,10,69.8,99,727.2,130,417.7,Hyderabad,Telangana,UPI,Shipped,Mobile App,,No
+ORD-10488,2025-03-11,CUST-1081,Returning,PRD-007,Backpack,Fashion,2,1299,0,0.0,99,2697.0,700,1247.5,Lucknow,Uttar Pradesh,Debit Card,Returned,Marketplace,4.0,Yes
+ORD-10489,2026-07-03,CUST-1088,New,PRD-001,Wireless Mouse,Electronics,3,599,0,0.0,40,1837.0,320,857.0,Kozhikode,Kerala,Net Banking,Delivered,Website,7.0,No
+ORD-10490,2026-05-03,CUST-1128,Premium,PRD-006,Running Shoes,Fashion,1,2199,15,329.85,40,1909.15,1250,639.15,Kolkata,West Bengal,Credit Card,Delivered,Website,4.0,No
+ORD-10491,2025-09-05,CUST-1092,New,PRD-014,Study Table,Furniture,1,3999,0,0.0,0,3999.0,2700,1299.0,Chennai,Tamil Nadu,UPI,Cancelled,Website,,No
+ORD-10492,2025-03-22,CUST-1096,Premium,PRD-011,Face Wash,Beauty,1,249,0,0.0,80,329.0,110,179.0,Lucknow,Uttar Pradesh,Debit Card,Delivered,Mobile App,8.0,No
+ORD-10493,2026-08-12,CUST-1057,Premium,PRD-014,Study Table,Furniture,1,3999,15,599.85,40,3439.15,2700,719.15,Chennai,Tamil Nadu,Credit Card,Shipped,Website,,No
+ORD-10494,2026-06-23,CUST-1089,Returning,PRD-013,Office Chair,Furniture,1,5499,15,824.85,0,4674.15,3700,974.15,Pune,Maharashtra,Credit Card,Cancelled,Mobile App,,No
+ORD-10495,2025-05-04,CUST-1098,,PRD-012,Sunscreen SPF 50,Beauty,1,499,20,99.8,0,399.2,260,139.2,Kochi,Kerala,UPI,Delivered,Mobile App,4.0,No
+ORD-10496,2026-01-06,CUST-1088,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,5,49.95,0,949.05,510,439.05,Chennai,Tamil Nadu,Credit Card,Delivered,Mobile App,8.0,No
+ORD-10497,2026-03-11,CUST-1072,Returning,PRD-004,USB-C Charger,Electronics,2,799,5,79.9,40,1558.1,420,698.1,Pune,Maharashtra,Credit Card,Shipped,Marketplace,,No
+ORD-10498,2025-05-15,CUST-1143,Returning,PRD-010,Bedsheet Set,Home & Kitchen,1,999,0,0.0,99,1098.0,510,538.5,Lucknow,Uttar Pradesh,Cash on Delivery,Delivered,Website,4.0,No
+ORD-10499,2025-05-30,CUST-1128,New,PRD-013,Office Chair,Furniture,1,5499,0,0.0,0,5499.0,3700,1799.0,Kozhikode,Kerala,Net Banking,Shipped,Marketplace,,No
+ORD-10500,2025-11-20,CUST-1026,Premium,PRD-013,Office Chair,Furniture,1,5499,15,824.85,80,4754.15,3700,1014.15,Ahmedabad,Gujarat,Credit Card,Delivered,Website,7.0,No
+ORD-10501,2025-08-09,CUST-1086,Returning,PRD-014,Study Table,Furniture,1,3999,20,799.8,0,3199.2,2700,499.2,Chennai,Tamil Nadu,Debit Card,Shipped,Mobile App,,No
